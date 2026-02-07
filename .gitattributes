@@ -1,0 +1,2 @@
+data/ospi/**/*.accdb filter=lfs diff=lfs merge=lfs -text
+data/salaries/S275_*.csv filter=lfs diff=lfs merge=lfs -text
