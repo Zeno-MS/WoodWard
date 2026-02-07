@@ -3,10 +3,10 @@
 ## Architect Tasks (Manual / Public Records)
 
 - [ ] **File public records request** with VPS under RCW 42.56 for:
-  - F-195 and F-195F reports (FY 2018-2025)
+  - F-195 and F-195F reports (FY 2018-2023) — *2024-25 and 2025-26 obtained*
   - All contracts with Soliant Health, Maxim Healthcare, Amergis, Pioneer Healthcare (2018-present)
   - All consent agenda items approving vendor contracts (2020-present)
-- [ ] **Pull F-195 data from OSPI website** — check EDS portal before waiting on formal request
+- [x] **Pull F-195 data from OSPI website** — Downloaded 4 reports to `documents/F195/`
 - [ ] **Search WA Secretary of State** for Amergis, Maxim, Soliant, Pioneer corporate filings
 - [ ] **Download VEA CBA** for salary schedule extraction
 
@@ -35,10 +35,10 @@
 
 ## Perplexity Tasks (OSINT)
 
-- [ ] Search: Amergis / Maxim Healthcare WA Secretary of State filings
-- [ ] Search: Maxim Healthcare Medicaid fraud settlement 2011
+- [x] Search: Amergis / Maxim Healthcare WA Secretary of State filings *(Tool: ccfs.sos.wa.gov)*
+- [x] Search: Maxim Healthcare Medicaid fraud settlement 2011 *($150M settlement confirmed)*
 - [ ] Search: OSPI Safety Net reimbursement data availability
-- [ ] Search: Vancouver Public Schools F-195 OSPI download links
+- [x] Search: Vancouver Public Schools F-195 OSPI download links *(Found 2024-25 and 2025-26 on vansd.org)*
 
 ## NotebookLM Setup
 
