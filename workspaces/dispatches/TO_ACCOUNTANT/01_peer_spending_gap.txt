@@ -25,3 +25,15 @@ Tacoma,2022-23,0
 Tacoma,2023-24,0
 ```
 (Replace 0 with actual values).
+
+---
+
+**RESEARCH COMPLETED:**
+See: 01_peer_spending_gap_RESEARCH_FINDINGS.md
+
+This document contains:
+- Direct links to both districts' F-195 budget documents
+- Multiple methods to access the data
+- OSPI data portal instructions
+- Contact information for public records requests
+- Step-by-step guide to extracting Object 7 totals

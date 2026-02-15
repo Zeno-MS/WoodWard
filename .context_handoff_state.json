@@ -1,0 +1,118 @@
+{
+  "project_name": "WoodWard",
+  "objective": "Define objective for WoodWard",
+  "targets": [],
+  "csv_template": [],
+  "status_summary": [
+    "Initialized context handoff workflow."
+  ],
+  "sources": [],
+  "next_actions": [
+    "Define immediate next action."
+  ],
+  "blockers": [],
+  "artifacts": [
+    "CONTEXT_HANDOFF.md",
+    ".context_handoff_state.json",
+    "CONTEXT_HANDOFF_WORKFLOW.md"
+  ],
+  "notes": [
+    "2026-02-15T08:06:05+00:00 | Bootstrapped project-level context handoff tooling"
+  ],
+  "context_window": {
+    "warn_percent": 70,
+    "critical_percent": 85,
+    "tokens_used": 200000,
+    "tokens_total": 272000,
+    "percent_used": 73.53,
+    "last_checked": "2026-02-15T08:06:14+00:00"
+  },
+  "model_profiles": {
+    "Claude Opus 4.6": {
+      "context_tokens": 1000000,
+      "multiplier": 3,
+      "notes": "Approximate; tool limits may vary."
+    },
+    "Claude Opus 4.6 (fast)": {
+      "context_tokens": 200000,
+      "multiplier": 3,
+      "notes": "Fast tier often reduced context."
+    },
+    "Claude Sonnet 4.5": {
+      "context_tokens": 200000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "Claude Haiku 4.5": {
+      "context_tokens": 200000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "Claude Opus 4.1": {
+      "context_tokens": 200000,
+      "multiplier": 10,
+      "notes": "Legacy expensive tier in some tables."
+    },
+    "Gemini 3 Pro": {
+      "context_tokens": 1000000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "Gemini 2.5 Pro": {
+      "context_tokens": 2000000,
+      "multiplier": null,
+      "notes": "Approximate upper bound."
+    },
+    "Gemini 3 Flash": {
+      "context_tokens": 1000000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "GPT-5.3-Codex": {
+      "context_tokens": 272000,
+      "multiplier": null,
+      "notes": "Approximate Copilot input context."
+    },
+    "GPT-5.3-Codex-Spark": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Fast tier."
+    },
+    "GPT-5.2": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "GPT-5.1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "GPT-5.1-Codex": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "GPT-4o": {
+      "context_tokens": 128000,
+      "multiplier": 0,
+      "notes": "Often low-cost in bundled dev tools."
+    },
+    "GPT-4.1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate."
+    },
+    "Raptor Mini": {
+      "context_tokens": 264000,
+      "multiplier": 0,
+      "notes": "Approximate IDE-tuned context."
+    },
+    "Grok Code Fast 1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Estimated."
+    }
+  },
+  "active_model": "GPT-5.3-Codex"
+}

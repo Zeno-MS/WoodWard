@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 /Users/chrisknight/Projects/scripts/context_handoff_manager.py --project-dir "$(pwd)" "$@"

@@ -1,0 +1,145 @@
+{
+  "project_name": "Peer Spending Gap (Object 7)",
+  "objective": "Find Object 7 (Purchased Services) totals for Evergreen (06114) and Tacoma (27010) for 2022-23 and 2023-24.",
+  "targets": [
+    "Evergreen School District (Clark County) — 06114",
+    "Tacoma School District — 27010"
+  ],
+  "csv_template": [
+    "District,Year,Object_7_Total",
+    "Evergreen,2022-23,",
+    "Evergreen,2023-24,",
+    "Tacoma,2022-23,",
+    "Tacoma,2023-24,"
+  ],
+  "status_summary": [
+    "Located district budget landing pages and candidate F-195 sources.",
+    "Google Drive-hosted PDFs may require browser/authenticated access.",
+    "OSPI SAFS portal appears interactive (dropdown-driven)."
+  ],
+  "sources": [
+    "https://sites.google.com/evergreenps.org/budget-fiscal-services/budget",
+    "https://www.tacomaschools.org/fs/pages/7712",
+    "https://ospi.k12.wa.us/policy-funding/school-apportionment/safs-report",
+    "https://reportcard.ospi.k12.wa.us/"
+  ],
+  "next_actions": [
+    "Open each district F-195 for 2022-23 and 2023-24 in a real browser/automation.",
+    "Search each PDF for 'Object 7' or 'Purchased Services'.",
+    "Record totals and populate CSV rows."
+  ],
+  "blockers": [
+    "Static fetch tools may fail on JS-driven pages or authenticated Google Drive resources."
+  ],
+  "artifacts": [
+    "01_peer_spending_gap.txt",
+    "01_peer_spending_gap_RESEARCH_FINDINGS.md",
+    "HANDOFF_peer_spending_gap.md",
+    "handoff_manager.py",
+    "handoff_state_peer_spending_gap.json",
+    "HANDOFF_WORKFLOW.md"
+  ],
+  "notes": [
+    "2026-02-15T07:46:29+00:00 | Validation run after automation setup",
+    "2026-02-15T07:46:40+00:00 | Added automation artifacts to handoff inventory",
+    "2026-02-15T08:01:33+00:00 | Enabled model-aware context policy from Feb 2026 model table",
+    "2026-02-15T08:01:54+00:00 | Synced tokens_total to active model context window",
+    "2026-02-15T08:02:10+00:00 | Validated model-context override behavior"
+  ],
+  "context_window": {
+    "warn_percent": 70,
+    "critical_percent": 85,
+    "tokens_used": 75000,
+    "tokens_total": 272000,
+    "percent_used": 27.57,
+    "last_checked": "2026-02-15T08:02:10+00:00"
+  },
+  "model_profiles": {
+    "Claude Opus 4.6": {
+      "context_tokens": 1000000,
+      "multiplier": 3,
+      "notes": "Approximate; 1M beta tier, tool-specific limits may be lower."
+    },
+    "Claude Opus 4.6 (fast)": {
+      "context_tokens": 200000,
+      "multiplier": 3,
+      "notes": "Fast tier often uses reduced context."
+    },
+    "Claude Sonnet 4.5": {
+      "context_tokens": 200000,
+      "multiplier": null,
+      "notes": "Approximate API/tooling limit."
+    },
+    "Claude Haiku 4.5": {
+      "context_tokens": 200000,
+      "multiplier": null,
+      "notes": "Approximate API/tooling limit."
+    },
+    "Claude Opus 4.1": {
+      "context_tokens": 200000,
+      "multiplier": 10,
+      "notes": "Legacy expensive tier in some pricing tables."
+    },
+    "Gemini 3 Pro": {
+      "context_tokens": 1000000,
+      "multiplier": null,
+      "notes": "Approximate; tool implementations may cap lower."
+    },
+    "Gemini 2.5 Pro": {
+      "context_tokens": 2000000,
+      "multiplier": null,
+      "notes": "Approximate upper bound in long-context tiers."
+    },
+    "Gemini 3 Flash": {
+      "context_tokens": 1000000,
+      "multiplier": null,
+      "notes": "Approximate; optimized for long-context throughput."
+    },
+    "GPT-5.3-Codex": {
+      "context_tokens": 272000,
+      "multiplier": null,
+      "notes": "Approximate Copilot input context; output budget is separate."
+    },
+    "GPT-5.3-Codex-Spark": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Fast tier with smaller context window."
+    },
+    "GPT-5.2": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate standard context."
+    },
+    "GPT-5.1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate standard context."
+    },
+    "GPT-5.1-Codex": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate standard context."
+    },
+    "GPT-4o": {
+      "context_tokens": 128000,
+      "multiplier": 0,
+      "notes": "Often low-cost in bundled dev-tool pricing."
+    },
+    "GPT-4.1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Approximate previous generation context."
+    },
+    "Raptor Mini": {
+      "context_tokens": 264000,
+      "multiplier": 0,
+      "notes": "Approximate IDE-tuned code model context."
+    },
+    "Grok Code Fast 1": {
+      "context_tokens": 128000,
+      "multiplier": null,
+      "notes": "Estimated based on public beta specs."
+    }
+  },
+  "active_model": "GPT-5.3-Codex"
+}
