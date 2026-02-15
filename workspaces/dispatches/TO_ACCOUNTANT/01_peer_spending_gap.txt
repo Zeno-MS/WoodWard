@@ -1,0 +1,26 @@
+[ROLE: Forensic Accountant / Data Analyst]
+
+**OBJECTIVE**:
+Find the "Object 7" (Purchased Services) spending totals for two peer school districts in Washington State for the school years 2022-23 and 2023-24.
+
+**CONTEXT**:
+*   We are investigating Vancouver Public Schools (VPS).
+*   VPS spent **$47.3 Million** on Object 7 in 2022-23.
+*   We need to know if this is an anomaly compared to its neighbors.
+
+**TARGETS**:
+1.  **Evergreen School District (Clark County)**
+2.  **Tacoma Public Schools**
+
+**INSTRUCTIONS**:
+1.  Search for "Evergreen School District F-195 Budget Summary 2023-24" or "Tacoma Public Schools Budget Status Report 2023".
+2.  Locate the "Object 7 - Purchased Services" line item in the General Fund expenditure summary.
+3.  Return the data in the following format ONLY:
+
+```csv
+District,Year,Object_7_Spend,Total_Budget,Notes
+Evergreen,2022-23,?,?,"Source URL"
+Tacoma,2022-23,?,?,"Source URL"
+```
+
+**NO FLUFF**. Just the numbers and the source links. We need to calculate the per-student spending ratio immediately.
