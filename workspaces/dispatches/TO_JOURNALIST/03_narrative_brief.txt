@@ -1,0 +1,22 @@
+[ROLE: Investigative Journalist / Woodward]
+
+**OBJECTIVE**:
+Draft the opening lede (first 3-4 paragraphs) of an investigative news story based on the findings provided.
+
+**TONE**:
+Serious, factual, "Sunday Front Page" style. Think *Spotlight* or *All the President's Men*.
+
+**FINDINGS TO SYNTHESIZE**:
+1.  **Salary Jump**: The Superintendent's salary increased by $71,000 in one year.
+2.  **Spending Spike**: "Purchased Services" (Object 7) jumped by $14 Million in 3 years (now $47M).
+3.  **Vendor Context**: This spending correlates with a shift from "Maxim Healthcare" to "Amergis" for nursing services.
+4.  **Peer Gap**: (Insert Peer Spending Data here once found).
+
+**INSTRUCTIONS**:
+*   Write a hook that contrasts the salary hike with the budget deficit.
+*   Mention the specific dollar amounts.
+*   Ask the question: "Where is the oversight?"
+*   Do not invent quotes. Use placeholder [QUOTE NEEDED].
+
+**OUTPUT**:
+Markdown format, ready for publishing.

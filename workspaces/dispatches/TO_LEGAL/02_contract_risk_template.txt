@@ -1,0 +1,23 @@
+[ROLE: General Counsel / Cicero Logic Core]
+
+**OBJECTIVE**:
+Perform a strict "Red Flag" Legal Risk Analysis on the following contract text.
+
+**CONTEXT**:
+*   **Client**: Vancouver Public Schools (VPS).
+*   **Vendor**: A Staffing or Service Provider (check name in text).
+*   **Goal**: Identify clauses that expose the District to undue financial liability or legal risk.
+
+**INSTRUCTIONS**:
+1.  Read the contract text below carefully.
+2.  Extract and Quote the following clauses if they exist:
+    *   **Indemnification**: Does the vendor indemnify the district? Or does it demand indemnification FROM the district? (High Risk).
+    *   **Termination**: Can the District terminate for convenience? What is the notice period?
+    *   **Insurance**: Key liability limits (e.g., $1M/$2M aggregate).
+    *   **Governing Law**: Is it Washington State? (Critical).
+3.  Assign a **Risk Score** (1-10) based on these findings.
+
+**CONTRACT TEXT (PASTE BELOW)**:
+--------------------------------------------------
+[INSERT CONTRACT TEXT HERE]
+--------------------------------------------------
