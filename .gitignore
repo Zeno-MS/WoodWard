@@ -13,3 +13,7 @@ data/salaries/*.csv
 data/salaries/S275_1920.csv
 data/salaries/S275_2122.csv
 data/salaries/*.csv
+
+# Scraper Artifacts
+documents/contracts/
+documents/screenshots/
