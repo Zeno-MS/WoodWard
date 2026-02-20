@@ -1,0 +1,10 @@
+id,object_code,name,description
+1,1,Certificated Salaries,Teacher and certificated staff salaries
+2,2,Classified Salaries,Support staff and classified employee salaries
+3,3,Employee Benefits,Benefits and payroll taxes
+4,4,Supplies,"Supplies, instructional resources, noncapitalized items"
+5,5,Purchased Services,Contracted services from external vendors
+6,6,Travel,Travel and conference expenses
+7,7,Capital Outlay,Equipment and capital purchases
+8,8,Other,Miscellaneous expenditures
+9,9,Transfers,Inter-fund transfers
