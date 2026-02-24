@@ -1,0 +1,9 @@
+District,Year,Object_7_Raw_Total,Note
+Evergreen,2023-2024 Budget,45935389,"Data from Evergreen 23-24 F-195"
+Evergreen,2024-2025 Budget,47125176,"Data from Evergreen 24-25 F-195"
+Battle Ground,2023-2024 Budget,32727029,"Data from Battle Ground F-195"
+Tacoma,2022-2023 Budget,53031443,"Data from Tacoma F-195_4"
+Tacoma,2023-2024 Budget,52913217,"Data from Tacoma F-195_4"
+Camas,N/A,N/A,"Camas PDFs not directly available; requires manual scrape."
+
+Note: The required OSPI F-195 PDFs for Evergreen, Battle Ground, and Tacoma have been successfully downloaded to the documents/F195/ folder. The total General Fund expenditures and per-pupil percentages will need to be calculated once OSPI enrollment figures are finalized, but the raw Object 7 spending indicates significant regional volume.

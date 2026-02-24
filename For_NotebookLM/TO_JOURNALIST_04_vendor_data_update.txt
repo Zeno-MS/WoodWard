@@ -1,0 +1,76 @@
+[ROLE: Investigative Journalist / WOODWARD]
+[SYSTEM: CLAUDE_INVESTIGATE — AI Investigative Journalist. 15 years specializing in systemic corruption.
+Every sentence must carry evidentiary weight. No decorative language. Name names. Cite numbers down to the cent.
+Tone: factually dense, controlled objectivity, authoritative.]
+
+---
+
+## ASSIGNMENT: Draft Investigative Report — The Maxim-Amergis Shell Game
+
+**OBJECTIVE**:
+Write a 600-900 word investigative lede suitable for publication. Use the Wall Street Journal formula:
+  Anecdotal Lead → Nut Graph → Systemic Analysis → Conclusion ("Missing Link / Call to Action")
+
+---
+
+## VERIFIED EVIDENCE LOCKER
+
+### 1. The Numbers (Source: 63,332 Warrant Register payment records — `data/woodward.db`)
+| Year      | Maxim (Confirmed) | Amergis (Confirmed) | Soliant |
+|-----------|-------------------|---------------------|---------|
+| 2020-21   | $364,981          | $0                  | $0      |
+| 2021-22   | $5,300,721        | $0                  | $104,875|
+| 2022-23   | $14,439,314       | $0                  | $75,048 |
+| 2023-24   | $8,063,420        | $5,400,750          | $503,603|
+| 2024-25   | $46,625           | **$27,904,823**     | $1,502,581|
+| 2025-26*  | $0                | $5,734,368          | $286,807|
+
+*Partial year
+
+### 2. The Contract Terms (Source: LanceDB — `Maxim_45, Maxim_46` contract chunks)
+From **Attachment A — Vancouver Public Schools STAFFING RATES** (effective May 5, 2021):
+```
+BCBA:                    $85.00–$115.00/hr
+BCaBA:                   $90.00/hr
+School Psychologist:     $90.00–$110.00/hr
+RN:                      $70.00/hr
+SLP:                     $80.00–$95.00/hr
+Paraprofessional:        $37.00–$45.00/hr
+PT/OT:                   $80.00–$90.00/hr
+SPED Teacher:            $70.00–$80.00/hr
+```
+**Section 5.4** — Rate Change: Maxim required only **30 days written notice** to raise rates. No ceiling specified.
+**Section 5.5** — Annual Increases: VPS *agreed to* automatic annual rate increases at % listed in Attachment A.
+
+### 3. The Fraud History (Source: DOJ Public Record — 2011)
+Maxim Healthcare Services settled for **$150 Million** to resolve criminal and civil charges of Medicaid fraud —
+billing for services not performed and paying kickbacks to referring clients.
+
+### 4. The Executive Pay Spike (Source: OSPI S-275 salary data)
+Superintendent Jeff Snell: $292,369 (2021) → **$363,684 (2022)** — a **$71,315 (24%) single-year raise**.
+This occurred while the district claimed budget constraints and expanded private contractor relations.
+
+### 5. The Rebrand Timeline
+- Maxim Healthcare rebranded to **Amergis Healthcare Staffing** in 2022.
+- VPS never disclosed this vendor connection or continuity in any public board document reviewed.
+- Payments shifted from Maxim → Amergis in the **same fiscal year as the rebrand**, beginning 2023-24.
+
+---
+
+## MISSING LINKS (Flag these in the narrative)
+- [MISSING] Amergis contract rate schedule — do the 2022+ contracts mirror Maxim's uncapped rate structure?
+- [MISSING] Board vote record authorizing the Amergis contract — was it on the consent agenda?
+- [MISSING] Peer district comparison — Evergreen, Battle Ground Object 7 spending for 2023-24.
+- [MISSING] Revolving door check — former VPS administrators now at Amergis, Soliant, or ProCare.
+
+---
+
+## INSTRUCTIONS
+1. Write the lede paragraph (anecdote — put the reader in the room with a specific moment or number).
+2. Write the nut graph (this is what the story is really about).
+3. Write the systemic analysis (connect the fraud history to the rebrand to the spending explosion).
+4. Conclude with the "missing link" demands — what the public deserves to know.
+5. Cite every number with its source in parentheses.
+6. Do NOT invent quotes. Use [QUOTE NEEDED — VPS spokesperson] as placeholder.
+
+**OUTPUT**: Markdown format. This is draft one. No softening of language.

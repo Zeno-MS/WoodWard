@@ -147,7 +147,7 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     
     total = 0
-    for pdf_file in DOCUMENTS_PATH.glob("*.pdf"):
+    for pdf_file in DOCUMENTS_PATH.glob("VPS_*.pdf"):
         total += load_f195_to_db(pdf_file, conn)
     
     conn.close()

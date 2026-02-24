@@ -21,10 +21,10 @@ def query_graph():
 
                     # Query for Deputy Superintendent and Executive Directors from 2023 to 2025
                     query = """
-                    MATCH (e:Employee)-[r:EMPLOYED_IN]->(fy:FiscalYear)
-                    WHERE e.title CONTAINS 'Deputy Superintendent' OR e.title CONTAINS 'Executive Director'
-                    RETURN e.name as Name, e.title as Title, e.base_salary as Salary, fy.year as Year
-                    ORDER BY fy.year, Title, Name
+                    MATCH (e:Employee)
+                    WHERE e.position CONTAINS 'Deputy Superintendent' OR e.position CONTAINS 'Executive Director' OR e.position CONTAINS 'Other District Administrator' OR e.position CONTAINS 'Director'
+                    RETURN e.name as Name, e.position as Title, e.salary as Salary, e.year as Year
+                    ORDER BY e.year, Title, Name
                     """
                     print("\n--- Cabinet Restructuring Data ---")
                     result = session.run(query)

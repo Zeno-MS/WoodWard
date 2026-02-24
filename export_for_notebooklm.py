@@ -57,6 +57,7 @@ md_txt_files.extend(glob.glob(os.path.join(base_dir, "workspaces", "dispatches",
 md_txt_files.extend(glob.glob(os.path.join(base_dir, "compass_artifact_*.md")))
 md_txt_files.append(os.path.join(base_dir, "VPS_INVESTIGATION_MASTER_PLAN_v2.md"))
 md_txt_files.append(os.path.join(base_dir, "investigative_journalist_briefing.md"))
+md_txt_files.extend(glob.glob(os.path.join(base_dir, "WoodWard V3", "*.md")))
 md_txt_files.append(os.path.join(base_dir, "workspaces", "dispatches", "TO_LEGAL", "03_clause_results.json")) # The contract clauses
 
 for f in md_txt_files:

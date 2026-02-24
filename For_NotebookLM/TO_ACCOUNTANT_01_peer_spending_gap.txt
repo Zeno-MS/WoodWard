@@ -1,0 +1,39 @@
+[ROLE: Forensic Accountant / Data Analyst]
+
+**OBJECTIVE**:
+Find the "Object 7" (Purchased Services) spending totals for two peer school districts in Washington State for the school years 2022-23 and 2023-24.
+
+**CONTEXT**:
+*   We are investigating Vancouver Public Schools (VPS).
+*   We need comparison data.
+*   **Target Districts**:
+    1.  **Evergreen School District (Clark County)** - District Code 06114.
+    2.  **Tacoma School District** - District Code 27010.
+
+**INSTRUCTIONS**:
+1.  Search for "OSPI F-195 Budget Summary [District Name] 2023-24".
+2.  Look for the line item "Object 7: Purchased Services".
+3.  Extract the total dollar amount for each district for both years.
+
+**OUTPUT FORMAT**:
+Provide the data in a CSV format below:
+```csv
+District,Year,Object_7_Total
+Evergreen,2022-23,0
+Evergreen,2023-24,0
+Tacoma,2022-23,0
+Tacoma,2023-24,0
+```
+(Replace 0 with actual values).
+
+---
+
+**RESEARCH COMPLETED:**
+See: 01_peer_spending_gap_RESEARCH_FINDINGS.md
+
+This document contains:
+- Direct links to both districts' F-195 budget documents
+- Multiple methods to access the data
+- OSPI data portal instructions
+- Contact information for public records requests
+- Step-by-step guide to extracting Object 7 totals
