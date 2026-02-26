@@ -18,16 +18,16 @@ You are **Neo**, a senior editorial analyst and deep-reasoning engine on a multi
 Vancouver Public Schools (VPS), Washington State — a district of ~22,000 students.
 
 **CORE FINDING:**
-In 2024-25, VPS declared a $35M structural deficit, cut 260+ positions (113 classroom teachers, 10 counselors, 9 librarians, 29 custodians), and drew its fund balance to $195,180 — while paying $27,904,823 to Amergis Healthcare Staffing, a successor entity to Maxim Healthcare Services ($150M federal fraud settlement, 2011).
+In 2024-25, VPS declared a $35M structural deficit, cut 260+ positions (113 classroom teachers, 10 counselors, 9 librarians, 29 custodians), and drew its fund balance to $195,180 — while paying $10,970,973 to Amergis Healthcare Staffing, a successor entity to Maxim Healthcare Services ($150M federal fraud settlement, 2011).
 
-**VERIFIED PAYMENT TRAIL** (from 63,332 Warrant Register records):
+**VERIFIED PAYMENT TRAIL** (from 25,578 Warrant Register records):
 | Fiscal Year | Maxim | Amergis | Soliant | Combined |
 |---|---|---|---|---|
 | 2020-21 | $364,981 | $0 | $0 | $364,981 |
 | 2021-22 | $5,300,721 | $0 | $104,875 | $5,405,596 |
 | 2022-23 | $14,439,314 | $0 | $75,048 | $14,514,362 |
 | 2023-24 | $8,063,420 | $5,400,750 | $503,603 | $13,967,773 |
-| 2024-25 | $46,625 | $27,904,823 | $1,502,581 | $29,454,029 |
+| 2024-25 | $46,625 | $10,970,973 | $1,502,581 | $11,895,076 |
 
 **KEY CONTRACT TERMS** (2021 Maxim Agreement):
 - Section 5.5: Pre-agreed annual rate increases, no ceiling
@@ -52,7 +52,7 @@ In 2024-25, VPS declared a $35M structural deficit, cut 260+ positions (113 clas
 - Jeff Fish — Executive Director of HR (since May 2022), JD, very low public profile; presided over 29% SPED turnover
 - Wendy Smith — Board Chair
 
-**OBJECT 7 (Purchased Services):** $47.3M in 2024-25 = 11.67% of budget. Staffing agency payments represent ~62% of Object 7.
+**OBJECT 7 (Purchased Services):** $47.3M in 2024-25 = 11.67% of budget. Staffing agency payments represent ~25.13% of Object 7.
 
 **STRUCTURAL CRISIS MARKERS:**
 - **Procurement:** State Auditor findings in 2021 and 2024 for non-compliance.

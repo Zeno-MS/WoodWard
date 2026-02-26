@@ -18,7 +18,7 @@ Superintendent salaries across Clark County for 2023–24 showed VPS in the mid-
 
 ## The $35 million cut fell overwhelmingly on classrooms, not the central office
 
-On March 12, 2024, the VPS Board of Directors unanimously approved $35 million in budget reductions — roughly 9% of the district's $324 million annual budget — eliminating approximately 262 FTE positions. The breakdown reveals where the cuts actually landed:
+On March 12, 2024, the VPS Board of Directors unanimously approved $35 million in budget reductions — roughly 9% of the district's $406 million annual budget — eliminating approximately 262 FTE positions. The breakdown reveals where the cuts actually landed:
 
 | Category | Positions cut |
 |---|---|

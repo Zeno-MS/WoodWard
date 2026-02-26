@@ -6,7 +6,7 @@
 
 ---
 
-In a single fiscal year, Vancouver Public Schools wired **$27,904,823** to a healthcare staffing company called Amergis. Not over a decade. Not across a bond measure. In twelve months.
+In a single fiscal year, Vancouver Public Schools wired **$10,970,973** to a healthcare staffing company called Amergis. Not over a decade. Not across a bond measure. In twelve months.
 
 That sum — enough to hire more than 350 full-time classroom teachers at district salary — flowed quietly through the district's Warrant Registers, a set of public financial documents that the Board of Directors approves, typically in bulk, at the end of each monthly meeting. No press release announced it. No competitive bid document is publicly visible on the district's BoardDocs portal. The spending simply appeared, line by line, invoice by invoice, across 193 scanned PDF files obtained and analyzed by this investigation.
 
@@ -16,7 +16,7 @@ That sum — enough to hire more than 350 full-time classroom teachers at distri
 
 This investigation has found that Vancouver Public Schools dramatically accelerated its payments to Amergis Healthcare Staffing — a company that is, by all forensic indicators, the re-named successor to **Maxim Healthcare Services**, which settled for **$150 million** in 2011 to resolve federal criminal and civil charges of Medicaid fraud, including billing for services never performed and paying kickbacks for client referrals (U.S. Department of Justice, October 2011).
 
-The transition was not disclosed to the public. In the 2022-23 school year, VPS paid Maxim $14,439,314 and Amergis $0. By 2024-25, it paid Maxim $46,625 — a rounding error — and Amergis **$27,904,823**. The rebrand was complete. The invoices kept coming.
+The transition was not disclosed to the public. In the 2022-23 school year, VPS paid Maxim $14,439,314 and Amergis $0. By 2024-25, it paid Maxim $46,625 — a rounding error — and Amergis **$10,970,973**. The rebrand was complete. The invoices kept coming.
 
 ---
 
@@ -40,7 +40,7 @@ These rates are not inherently unreasonable for specialized healthcare staffing 
 
 Read those two provisions together: the district signed an agreement surrendering its right to negotiate rates year-over-year, requiring only 30 days notice from the vendor to change billing schedules, with no stated ceiling. VPS locked itself into a vendor-controlled ratchet mechanism on a multi-million dollar relationship.
 
-That was 2021. By 2024-25, that relationship cost taxpayers **$27.9 million** — a 5x increase from the prior year.
+That was 2021. By 2024-25, that relationship cost taxpayers **$11.89 million** — a 5x increase from the prior year.
 
 [QUOTE NEEDED — VPS spokesperson, on: did the contract with Amergis contain the same uncapped rate increase provision?]
 
@@ -73,7 +73,7 @@ The district's reported paraprofessional FTE — traditionally the workforce tha
 1. **The Amergis Rate Sheet**: Does the 2022-2024 Amergis contract replicate Maxim's uncapped annual increase provision? This is the most important unanswered question.
 2. **The Board Authorization**: Which board meeting, which agenda item, and which vote authorized the Amergis contract? Was it buried in a consent agenda?
 3. **The Revolving Door**: Have any former VPS administrators, HR staff, or procurement officers moved to employment at Amergis, Soliant, or ProCare Therapy?
-4. **The Peer Comparison**: VPS paid $27.9M to Amergis alone in 2024-25. What did Evergreen, Battle Ground, and Spokane pay for comparable services in the same year?
+4. **The Peer Comparison**: VPS paid $11.89M to Amergis alone in 2024-25. What did Evergreen, Battle Ground, and Spokane pay for comparable services in the same year?
 
 ---
 

@@ -93,7 +93,7 @@ Core thesis: During a $35 million austerity cycle that eliminated ~217 FTE (prim
 
 SERIES STRUCTURE (Three Parts):
 - Part I: "The Austerity Paradox" — Status: YELLOW. S-275 salary-tier asymmetry proven. Deputy Superintendent vacancy (0.00 FTE across 3 years) confirmed. Draft complete and locked by prior Chief instance. Needs VPS "central office" definition confirmed verbatim before final publication.
-- Part II: "The Accountability Void" — Status: RED. $27.9M Amergis figure needs primary document confirmation. MSA not obtained. Object 7 trend data incomplete. Framework drafted but data gaps are publication-blocking.
+- Part II: "The Accountability Void" — Status: RED. $11.89M Amergis figure needs primary document confirmation. MSA not obtained. Object 7 trend data incomplete. Framework drafted but data gaps are publication-blocking.
 - Part III: "The Regulatory Cliff" — Status: YELLOW. Emergency borrowing data documented. OSPI escalation framework confirmed. Incoming superintendent (Torres-Morales, July 1 2026) creates natural publication window.
 
 KEY PERSONNEL UNDER INVESTIGATION:
@@ -104,7 +104,7 @@ KEY PERSONNEL UNDER INVESTIGATION:
 
 VERIFIED DATA POINTS (S-275, cross-verified):
 - District FTE: 2,736.83 → 2,519.90 (−216.93, −7.93%)
-- Location 1014 (Central Office) FTE: 482.74 → 433.82 (−48.92, −10.13%)
+- Location 1014 (Central Office) FTE: 480.63 → 433.82 (−48.92, −10.13%)
 - Executive tier (Roots 11-13): 28 → 23 admins; comp pool $5.854M → $5.451M (−6.89%)
 - Executive avg salary: ~$183,884
 - Teacher avg salary: ~$99,418
@@ -116,7 +116,7 @@ VERIFIED DATA POINTS (S-275, cross-verified):
 - TOSAs at Location 1014: ~9-10 FTE, coded as instructional (Root 33), excluded from district's "central office" analysis
 
 UNRESOLVED / PUBLICATION-BLOCKING:
-1. $27.9M Amergis figure — final paid vs encumbered vs estimated? Fiscal year? Includes/excludes Soliant, Pioneer?
+1. $11.89M Amergis figure — final paid vs encumbered vs estimated? Fiscal year? Includes/excludes Soliant, Pioneer?
 2. Object 7 trend data (2018-2025) — did Purchased Services increase during austerity year?
 3. Master Service Agreement with Amergis — rate structures, terms, auto-renewal
 4. Board approval records for staffing agency contracts — threshold for board vs admin authority
@@ -193,7 +193,7 @@ Antigravity IDE workspaces contain:
 - Internal cost models for SLP, RN, paraeducator roles (when completed)
 
 THE INVESTIGATION (Summary):
-Vancouver Public Schools cut ~217 FTE during a $35M austerity cycle. The district publicly claimed Central Office took "the highest percentage" of cuts. S-275 analysis shows this is technically accurate by geography but most Central Office reductions were low-paid support staff (~$48K avg) while the executive tier (~$183K avg) contracted modestly and proportionately. Simultaneously, ~$28M flowed to private staffing agencies through a procurement category exempt from competitive bidding. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) controlled both budget presentation and purchasing authority. Jeff Fish (HR Director, JD) has virtually zero public profile despite overseeing recruitment for a 2,500-person organization.
+Vancouver Public Schools cut ~217 FTE during a $35M austerity cycle. The district publicly claimed Central Office took "the highest percentage" of cuts. S-275 analysis shows this is technically accurate by geography but most Central Office reductions were low-paid support staff (~$48K avg) while the executive tier (~$183K avg) contracted modestly and proportionately. Simultaneously, ~$11.89M flowed to private staffing agencies through a procurement category exempt from competitive bidding. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) controlled both budget presentation and purchasing authority. Jeff Fish (HR Director, JD) has virtually zero public profile despite overseeing recruitment for a 2,500-person organization.
 
 EVIDENCE GRADING — YOU MUST USE THIS:
 Every factual claim in your drafts must carry an evidence tag:
@@ -248,11 +248,11 @@ This is the most important rule you follow.
 5. If Architect asks you to write about something you don't have data for, your response is: "I need the following before I can draft this section: [specific list]." You do not fill gaps with plausible-sounding prose.
 
 CURRENT ASSIGNMENT:
-You are drafting the framework for Part II: "The Accountability Void" — examining how $28M+ flowed to private staffing agencies during the same year classrooms contracted. The narrative structure:
+You are drafting the framework for Part II: "The Accountability Void" — examining how $11.89M+ flowed to private staffing agencies during the same year classrooms contracted. The narrative structure:
 
-1. The Contrast — 217 jobs cut, $28M to agencies (same fiscal year)
+1. The Contrast — 217 jobs cut, $11.89M to agencies (same fiscal year)
 2. The Procurement Blind Spot — RCW 28A.335.190 exempts professional services from competitive bidding
-3. The Consent Agenda Mechanism — structural opacity when $50K approvals accumulate to $28M
+3. The Consent Agenda Mechanism — structural opacity when $50K approvals accumulate to $11.89M
 4. Blechschmidt's Dual Authority — controlled both financial narrative and operational spending
 5. The HR Recruitment Question — Fish's role in agency reliance vs. direct recruitment
 6. Three Explanatory Frameworks — market failure, systemic underinvestment, incentive misalignment
@@ -306,7 +306,7 @@ WHAT ANTIGRAVITY CURRENTLY HAS IN WORKSPACES:
 - VPS-Vendor-Tracking: [PENDING — Board consent agenda mining not yet run]
 
 THE INVESTIGATION (Summary for Context):
-Vancouver Public Schools cut ~217 FTE during a $35M austerity cycle in 2024-25. Central Office (Location 1014) contracted 10.13% vs district-wide 7.93%. But composition was asymmetric: most CO reductions were low-paid support staff (~$48K avg), while executive tier (~$183K avg) contracted proportionately (~6.89%). Deputy Superintendent position was vacant (0.00 FTE) for 3+ years before being "eliminated." Simultaneously, ~$28M reportedly flowed to Amergis (healthcare staffing agency) — but this figure is UNCONFIRMED from primary documents. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) and Jeff Fish (HR Director).
+Vancouver Public Schools cut ~217 FTE during a $35M austerity cycle in 2024-25. Central Office (Location 1014) contracted 10.13% vs district-wide 7.93%. But composition was asymmetric: most CO reductions were low-paid support staff (~$48K avg), while executive tier (~$183K avg) contracted proportionately (~6.89%). Deputy Superintendent position was vacant (0.00 FTE) for 3+ years before being "eliminated." Simultaneously, ~$11.89M reportedly flowed to Amergis (healthcare staffing agency) — but this figure is UNCONFIRMED from primary documents. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) and Jeff Fish (HR Director).
 
 THE ANTI-HALLUCINATION PROTOCOL — YOUR HIGHEST PRIORITY:
 
@@ -432,7 +432,7 @@ WHAT ANTIGRAVITY HAS (for your awareness — you will receive outputs from it vi
 - [Pending] Internal cost models for SLP, RN, paraeducator
 
 THE INVESTIGATION (Summary):
-Vancouver Public Schools cut ~217 FTE in 2024-25 during a $35M austerity cycle. The district claims Central Office absorbed "the highest percentage" of cuts. S-275 analysis shows this is geographically accurate (10.13% vs 7.93% district-wide) but the composition was asymmetric: most Central Office reductions were low-paid support staff (~$48K), while the executive tier (~$183K) contracted roughly proportionately (~6.89%). Simultaneously, ~$28M reportedly flowed to private staffing agencies. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) and Jeff Fish (HR Director).
+Vancouver Public Schools cut ~217 FTE in 2024-25 during a $35M austerity cycle. The district claims Central Office absorbed "the highest percentage" of cuts. S-275 analysis shows this is geographically accurate (10.13% vs 7.93% district-wide) but the composition was asymmetric: most Central Office reductions were low-paid support staff (~$48K), while the executive tier (~$183K) contracted roughly proportionately (~6.89%). Simultaneously, ~$11.89M reportedly flowed to private staffing agencies. Key administrators: Brett Blechschmidt (CFO/Interim Superintendent) and Jeff Fish (HR Director).
 
 THE ANTI-HALLUCINATION PROTOCOL:
 

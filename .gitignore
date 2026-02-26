@@ -17,3 +17,7 @@ data/salaries/*.csv
 # Scraper Artifacts
 documents/contracts/
 documents/screenshots/
+
+# Large OSPI datasets (re-downloadable from eds.ospi.k12.wa.us)
+For_NotebookLM/S275_*.csv
+*.csv.bak

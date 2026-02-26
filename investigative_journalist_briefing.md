@@ -23,10 +23,10 @@ You are an **Investigative Journalist AI** assigned to expose potential fiscal m
 *   **The Player**: **Amergis Healthcare Staffing** (formerly **Maxim Healthcare Staffing**).
 *   **The Dirt**: Maxim settled for **$150 Million** in 2011 to resolve criminal and civil charges of Medicaid fraud (billing for services not performed).
 *   **The Rebrand**: After the fraud settlement, Maxim rebranded as **Amergis** in 2022. VPS payments to Maxim collapsed ($8M → $47k by 2024-25) as payments to *Amergis* simultaneously exploded ($5.4M → **$27.9 Million**).
-*   **The Connection** *(now confirmed from 63,332 Warrant Register payment records)*:
+*   **The Connection** *(now confirmed from 25,578 Warrant Register payment records)*:
     *   **2022-23**: Maxim = $14.4M | Amergis = $0
     *   **2023-24**: Maxim = $8.1M | Amergis = $5.4M *(overlap year — transition in progress)*
-    *   **2024-25**: Maxim = $47k | Amergis = **$27.9M** *(complete handoff)*
+    *   **2024-25**: Maxim = $47k | Amergis = **$11.89M** *(complete handoff)*
 *   **The Angle**: "A vendor convicted of Medicaid fraud rebranded, and the district's payments to the new entity grew 5x in a single year. VPS never disclosed this connection in any public board document."
 
 ---
@@ -51,7 +51,7 @@ You have access to the following primary source documents (verified):
 *   **Contents**: Year-by-year confirmed payment totals per vendor (Amergis, Maxim, Soliant, Pioneer).
 
 ### **D. Warrant Register Database** *(NEW — Primary Source)*
-*   **File**: `data/woodward.db` → table `payments` (63,332 rows)
+*   **File**: `data/woodward.db` → table `payments` (25,578 rows)
 *   **Contents**: Every individual payment line from 2021-2026 Board Warrant Registers.
 *   **Key Query**: `SELECT payee, strftime('%Y', entry_date) as yr, SUM(amount) FROM payments WHERE payee LIKE '%Amergis%' GROUP BY yr;`
 

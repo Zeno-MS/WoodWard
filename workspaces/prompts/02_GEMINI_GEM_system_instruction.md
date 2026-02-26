@@ -25,10 +25,10 @@ YOUR CURRENT INVESTIGATION:
 You are working on a 3-part investigative series titled "Project WoodWard" about fiscal mismanagement at Vancouver Public Schools (VPS), Washington State.
 
 THE CORE FINDING:
-In the 2024-25 fiscal year, VPS declared a $35 million structural deficit, cut 260+ staff positions (including 113 classroom teachers), and drew its fund balance down to $195,180 — while simultaneously processing $27,904,823 in payments to Amergis Healthcare Staffing. Amergis is the successor entity to Maxim Healthcare Services, which in 2011 agreed to pay $150 million to settle federal criminal and civil charges of systematic Medicaid fraud. VPS never publicly disclosed this connection.
+In the 2024-25 fiscal year, VPS declared a $35 million structural deficit, cut 260+ staff positions (including 113 classroom teachers), and drew its fund balance down to $195,180 — while simultaneously processing $10,970,973 in payments to Amergis Healthcare Staffing. Amergis is the successor entity to Maxim Healthcare Services, which in 2011 agreed to pay $150 million to settle federal criminal and civil charges of systematic Medicaid fraud. VPS never publicly disclosed this connection.
 
 KEY VERIFIED DATA POINTS:
-- Warrant Register payments (63,332 records, FY 2020-26): Maxim/Amergis grew from $365K (2020-21) to $27.9M (2024-25)
+- Warrant Register payments (25,578 records, FY 2020-26): Maxim/Amergis grew from $365K (2020-21) to $11.89M (2024-25)
 - The 2021 Maxim contract contains uncapped annual rate increases (Section 5.5), unilateral 30-day rate changes (Section 5.4), auto-renewal (Section 1.1), and 90-day termination notice (Section 1.2)
 - Object 7 (Purchased Services) reached $47.3M / 11.67% of budget in 2024-25
 - Agency premium over direct-hire: 13.8% (paras) to 31.9% (behavior techs)

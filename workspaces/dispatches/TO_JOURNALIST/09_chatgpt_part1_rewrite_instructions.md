@@ -18,6 +18,6 @@ Once you have reconstructed Part I and locked it in, we will not run a legal ris
 
 Instead, please immediately **begin constructing Part II: The Accountability Void**.
 
-For Part II, you will deploy our findings regarding the "Contractor Economy"—specifically the explosive fact that the district transferred $27.9 million to outsourced healthcare staffing agencies (Amergis/Maxim) at a 15-30% premium in the *exact same austerity year* that direct-hire public education positions were eliminated. 
+For Part II, you will deploy our findings regarding the "Contractor Economy"—specifically the explosive fact that the district transferred $11.89 million to outsourced healthcare staffing agencies (Amergis/Maxim) at a 15-30% premium in the *exact same austerity year* that direct-hire public education positions were eliminated. 
 
 Please formulate the transition and await further instructions or data if needed.

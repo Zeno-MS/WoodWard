@@ -23,7 +23,7 @@ You are the **human relay hub**. Every AI platform communicates with every other
 
 **Owns:**
 - All code execution (Python, SQL, data extraction)
-- Database queries against `woodward.db` (63,332 payment records)
+- Database queries against `woodward.db` (25,578 payment records)
 - File management — reading/writing all project files
 - Draft generation (Article 1 complete; Articles 2 & 3 pending)
 - Visualization generation (charts, tables)
@@ -93,7 +93,7 @@ Your constraint: Never speculate without evidence. If a link is missing, demand 
 Your output: Publication-grade investigative prose. Not summaries — stories.
 Forensic language only. No hyperbole. Cite numbers to the cent.
 You are currently working on a 3-part series about fiscal mismanagement at
-Vancouver Public Schools. The core finding: VPS paid $27.9M to Amergis
+Vancouver Public Schools. The core finding: VPS paid $11.89M to Amergis
 (formerly Maxim Healthcare, $150M fraud settlement) while cutting 260+ staff
 and declaring a $35M deficit.
 ```
@@ -232,13 +232,13 @@ For iterative refinement, use this loop:
 ### ARTICLE 1: The Austerity Paradox (Focus: The Numbers & The Rebrand)
 **Status:** ✅ DRAFT COMPLETE → `ARTICLE_1_THE_AUSTERITY_PARADOX.md`
 
-**Core Thesis:** In the exact year Vancouver Public Schools declared a $35M budget deficit and cut 260+ staff, it accelerated a massive, uncapped wealth transfer—$27.9 million—to a single private staffing corporation with a history of Medicaid fraud.
+**Core Thesis:** In the exact year Vancouver Public Schools declared a $35M budget deficit and cut 260+ staff, it accelerated a massive, uncapped wealth transfer—$11.89 million—to a single private staffing corporation with a history of Medicaid fraud.
 
 **Structure:**
-1. **The Lede:** Contrast the 24-25 classroom cuts with the $27.9M wire transfers to Amergis.
+1. **The Lede:** Contrast the 24-25 classroom cuts with the $11.89M wire transfers to Amergis.
 2. **The "Object 7" Explosion:** How "Purchased Services" consumed 11.67% ($47.3M) of the budget while teacher salaries bled.
 3. **The Stealth Rebrand:** Maxim Healthcare ($150M Medicaid fraud, 2011) → Amergis (2022). Zero public disclosure.
-4. **The Handoff Data:** $14.4M (22-23, Maxim) → overlap (23-24) → $27.9M (24-25, Amergis).
+4. **The Handoff Data:** $14.4M (22-23, Maxim) → overlap (23-24) → $11.89M (24-25, Amergis).
 5. **The Missing Ceiling:** The 2021 contract's Attachment A — uncapped rates, auto-renewal, 30-day rate changes.
 
 **Remaining Workflow:**
@@ -258,7 +258,7 @@ For iterative refinement, use this loop:
 **Core Thesis:** A $28 million corporate pipeline does not build itself. It relies on the deliberate or severely negligent failure of HR and Finance, aided by a Board that rubber-stamps multi-million dollar contracts in seconds.
 
 **Structure:**
-1. **The Lede:** The "Consent Agenda" — how $28M is approved alongside minor facility repairs without debate.
+1. **The Lede:** The "Consent Agenda" — how $11.89M is approved alongside minor facility repairs without debate.
 2. **The Graph Data & Procurement Red Flags:** 82 separate Amergis/Maxim contract authorizations (2016–2025) amidst state auditor findings (2021, 2024) for procurement violations.
 3. **The HR Failure (Jeff Fish) & The Shell Game:** Abandonment of SPED recruitment, masking central office bloat (48% growth despite enrollment drops) through title-repurposing, and ignoring a 29% SPED staff turnover fueled by safety crises.
 4. **The Finance Failure (Brett Blechschmidt):** $35M austerity presented as unavoidable, ignoring the "ESSER Fiscal Cliff," while driving the district toward state takeover ("Binding Conditions") via three years of emergency borrowing.

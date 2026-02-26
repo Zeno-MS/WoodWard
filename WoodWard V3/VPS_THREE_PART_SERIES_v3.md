@@ -10,7 +10,7 @@
 
 Christopher — I've read the full preceding chat with the other AIs. Here's my assessment of what went wrong and what this document corrects.
 
-**What went wrong with the Woodward/Antigravity draft:** They got trapped in a defensive crouch. The adversarial simulation was useful but the team overcorrected. They sanded every edge off Part I until it read like an academic working paper rather than investigative journalism. The draft names no decision-makers. It assigns no institutional responsibility. It treats the $27.9 million in staffing agency payments as a teaser for Part II instead of weaving it into the structural narrative. Jeff Fish doesn't appear. Blechschmidt appears only as a data point. The human cost — students in classrooms with 40 kids, paraeducators begging the board for help, Fort Vancouver students walking out — is completely absent.
+**What went wrong with the Woodward/Antigravity draft:** They got trapped in a defensive crouch. The adversarial simulation was useful but the team overcorrected. They sanded every edge off Part I until it read like an academic working paper rather than investigative journalism. The draft names no decision-makers. It assigns no institutional responsibility. It treats the $11.89 million in staffing agency payments as a teaser for Part II instead of weaving it into the structural narrative. Jeff Fish doesn't appear. Blechschmidt appears only as a data point. The human cost — students in classrooms with 40 kids, paraeducators begging the board for help, Fort Vancouver students walking out — is completely absent.
 
 The other AIs also lost sight of the series architecture. Part I became a narrow data-analysis exercise about percentage framing rather than the sweeping opening chapter that establishes the full landscape of the crisis and makes readers *need* to read Parts II and III.
 
@@ -31,7 +31,7 @@ The other AIs also lost sight of the series architecture. Part I became a narrow
 
 ### The Night the Cuts Came Down
 
-On the evening of March 12, 2024, dozens of Vancouver community members filed into the school board meeting knowing what was coming but hoping they were wrong. The Vancouver Public Schools Board of Directors was about to vote on $35 million in budget reductions — roughly nine percent of the district's $324 million annual budget — eliminating what public communications would describe as "over 260 positions."
+On the evening of March 12, 2024, dozens of Vancouver community members filed into the school board meeting knowing what was coming but hoping they were wrong. The Vancouver Public Schools Board of Directors was about to vote on $35 million in budget reductions — roughly nine percent of the district's $406 million annual budget — eliminating what public communications would describe as "over 260 positions."
 
 Paraeducator Christopher Smith stepped to the microphone and challenged the administrators seated at the dais. "As you burn out your staff, there are limited replacements," he said. "This is not a renewable resource. Have you been in a classroom with 40 or more students?" **[PROOF — The Columbian, March 13, 2024]**
 
@@ -70,9 +70,9 @@ In subsequent budget materials, VPS made a specific claim:
 
 OSPI location codes show that employees assigned to the district's primary administrative site (Location Code 1014) declined as follows:
 
-- **2023–24 Location 1014 FTE:** 482.74
+- **2023–24 Location 1014 FTE:** 480.63
 - **2024–25 Location 1014 FTE:** 433.82
-- **Net Reduction:** 48.92 FTE (10.13%)
+- **Net Reduction:** 47.57 FTE (10.13%)
 
 Central Office shrank by 10.13 percent. The district overall shrank by 7.93 percent. On a percentage basis, the district's claim holds.
 
@@ -154,7 +154,7 @@ Blechschmidt's signatory authority on vendor contracts is not explicitly documen
 
 **[STRONG INFERENCE]** Fish's public profile at VPS is remarkably low. No media quotes, interviews, public statements, or attributed board presentations by Fish were located in any regional outlet — The Columbian, Clark County Today, KATU, or OPB. His name does not appear in publicly available coverage of VPS labor negotiations with VEA, VAESP, or SEIU, despite his role as the district's top HR official. Coverage consistently attributes staffing and bargaining commentary to Superintendent Snell or Communications Director Jessica Roberts.
 
-Fish oversees a five-person HR department responsible for recruiting the roughly 2,500-person workforce of a $324 million organization. His role in the decision to use private staffing agencies — Soliant, Amergis/Maxim, Pioneer — rather than recruiting permanent staff through internal HR channels is one of the central unresolved questions of this investigation. **[UNRESOLVED — requires public records request for emails, contract approvals, and HR staffing reports]**
+Fish oversees a five-person HR department responsible for recruiting the roughly 2,500-person workforce of a $406 million organization. His role in the decision to use private staffing agencies — Soliant, Amergis/Maxim, Pioneer — rather than recruiting permanent staff through internal HR channels is one of the central unresolved questions of this investigation. **[UNRESOLVED — requires public records request for emails, contract approvals, and HR staffing reports]**
 
 ### The Macro Context: Real Pressures on a Real District
 
@@ -183,11 +183,11 @@ It is where the money flowed next.
 ---
 
 # PART II: THE ACCOUNTABILITY VOID
-## How $28 Million Flowed to Private Staffing Agencies in the Same Year Classrooms Contracted
+## How $11.9 Million Flowed to Private Staffing Agencies in the Same Year Classrooms Contracted
 
 ### The Parallel Economy
 
-In the same fiscal year that Vancouver Public Schools eliminated 217 positions from its payroll — 113 of them classroom teachers — the district directed approximately **$27.9 million** to a single entity: Amergis (formerly Maxim Healthcare Staffing), a national staffing agency headquartered in Dallas, Texas. **[SUSPICION — figure derived from investigation analysis; requires confirmation as final paid amount vs. encumbered]**
+In the same fiscal year that Vancouver Public Schools eliminated 217 positions from its payroll — 113 of them classroom teachers — the district directed approximately **$11.89 million** to a single entity: Amergis (formerly Maxim Healthcare Staffing), a national staffing agency headquartered in Dallas, Texas. **[SUSPICION — figure derived from investigation analysis; requires confirmation as final paid amount vs. encumbered]**
 
 Additional payments flowed to Soliant Health and Pioneer Healthcare Services. Together, private staffing agencies consumed a significant share of Object 7 — Purchased Services — which totaled approximately **$47.3 million** in 2024–25. **[SUSPICION — Object 7 total derived from F-195 analysis; vendor-specific breakout not yet confirmed via primary documents]**
 
@@ -203,19 +203,19 @@ The Municipal Research and Services Center, which advises Washington local gover
 
 **[UNRESOLVED]** VPS Board Policy 6220 (Bid or Request for Proposal Requirements) follows the WSSDA model with standard thresholds. Board Policy 6210 (Purchasing: Authorization and Control) authorizes the superintendent to direct expenditures within the approved budget. The specific dollar threshold at which VPS requires board approval for service contracts versus superintendent or designee authority could not be confirmed from publicly available records. This is a critical governance question: *at what point does a staffing agency contract become large enough to require a board vote rather than an administrative signature?*
 
-If the threshold is $75,000 — a common level at comparable districts — then a $27.9 million annual vendor relationship could have been structured as a series of smaller authorizations that never individually triggered board scrutiny.
+If the threshold is $75,000 — a common level at comparable districts — then a $11.89 million annual vendor relationship could have been structured as a series of smaller authorizations that never individually triggered board scrutiny.
 
 **[STRONG INFERENCE]** Staffing agency contracts with Soliant, Amergis/Maxim, and Pioneer were not located in publicly available board meeting minutes, bid postings, or consent agendas. This does not prove they were never brought to the board — VPS BoardDocs, which houses detailed meeting minutes, blocks automated access. But it raises the question of whether cumulative vendor spending of this magnitude received the level of governance oversight that its scale warrants.
 
 ### The Consent Agenda Mechanism
 
-**[STRONG INFERENCE — documented in multiple board meeting minutes]** When vendor contracts do appear before the VPS Board, they are typically included in the consent agenda — a bundle of routine items approved in a single vote, often in under sixty seconds, without individual discussion. This is standard practice at school boards statewide and is not inherently problematic. But when individual approvals of $50,000 or $75,000 accumulate to $28 million annually, the consent mechanism creates structural opacity: no single agenda item reveals the cumulative scale of the vendor relationship.
+**[STRONG INFERENCE — documented in multiple board meeting minutes]** When vendor contracts do appear before the VPS Board, they are typically included in the consent agenda — a bundle of routine items approved in a single vote, often in under sixty seconds, without individual discussion. This is standard practice at school boards statewide and is not inherently problematic. But when individual approvals of $50,000 or $75,000 accumulate to $30 million cumulatively, the consent mechanism creates structural opacity: no single agenda item reveals the cumulative scale of the vendor relationship.
 
 ### The Premium
 
 **[SUSPICION — requires rate sheet confirmation from MSA]** National staffing agencies charge districts a bill rate that includes the worker's pay plus a margin covering the agency's overhead, profit, benefits, liability insurance, and recruitment costs. Industry estimates for healthcare education staffing place that margin at 15 to 30 percent above what a district would pay a direct-hire employee in salary plus benefits.
 
-If VPS pays an average premium of even 20 percent on $27.9 million, that represents approximately **$4.65 million** annually in agency margin — money that does not reach a classroom, does not compensate a therapist or paraeducator, and does not build internal capacity for future recruitment.
+If VPS pays an average premium of even 20 percent on $11.89 million, that represents approximately **$4.65 million** annually in agency margin — money that does not reach a classroom, does not compensate a therapist or paraeducator, and does not build internal capacity for future recruitment.
 
 Put differently: the agency premium alone may exceed what the district saved by eliminating the Deputy Superintendent position, cutting 16 clerk positions, and reducing 29 custodial staff combined.
 
@@ -227,7 +227,7 @@ This brings the investigation back to Jeff Fish.
 
 **[STRONG INFERENCE]** National staffing agencies maintain active, ongoing job postings in Vancouver, WA for positions including school psychologists, speech-language pathologists, and special education teachers. These are positions that fall directly within the recruitment purview of VPS's Human Resources department.
 
-The fundamental governance question is: **why does a $324 million school district with a five-person HR department led by a JD-credentialed executive director rely on private staffing agencies to fill core instructional and therapeutic positions — and at what point did that reliance become a structural feature rather than an emergency measure?**
+The fundamental governance question is: **why does a $406 million school district with a five-person HR department led by a JD-credentialed executive director rely on private staffing agencies to fill core instructional and therapeutic positions — and at what point did that reliance become a structural feature rather than an emergency measure?**
 
 Several possible explanations exist, and each carries different implications:
 
@@ -257,7 +257,7 @@ That a district in financial crisis, dependent on emergency state borrowing, als
 
 Before this part of the series can reach full publication status, the following must be confirmed:
 
-1. **The $27.9 million figure** — is this final paid, encumbered, or estimated? What fiscal year? Does it include or exclude Soliant and Pioneer?
+1. **The $11.89 million figure** — is this final paid, encumbered, or estimated? What fiscal year? Does it include or exclude Soliant and Pioneer?
 2. **The MSA with Amergis** — rate structures, term length, auto-renewal clauses, liability provisions
 3. **Object 7 trend data (2018–2025)** — did purchased services increase during the austerity year while salaries decreased?
 4. **Board approval records** — were staffing agency contracts brought to the board? At what threshold?
@@ -290,7 +290,7 @@ She added that *"county treasurers are not designed to provide long, ongoing ope
 
 ### The Fund Balance: From $7 Million to $195,180
 
-**[PROOF — VPS budget documents, Columbian reporting]** In August 2025, the board unanimously approved a 2025–26 budget that drew the fund balance from $7 million to **$195,180** — effectively zero reserves for a $324 million operation. The strategy avoided another round of layoffs but eliminated virtually all financial cushion.
+**[PROOF — VPS budget documents, Columbian reporting]** In August 2025, the board unanimously approved a 2025–26 budget that drew the fund balance from $7 million to **$195,180** — effectively zero reserves for a $406 million operation. The strategy avoided another round of layoffs but eliminated virtually all financial cushion.
 
 Blechschmidt, now interim superintendent, acknowledged the situation at the December 2025 board meeting: "When we've exhausted nearly all of our cash reserves, at some point in time, we need to reverse that flow." He outlined an additional $7 million in reductions and announced the closure of Flex Academy, a small alternative high school. Students at Flex staged a walkout on December 18 to protest the closure.
 
@@ -383,7 +383,7 @@ It is whether anyone will look.
 | Part | Title | Core Thesis | Evidence Status |
 |------|-------|-------------|----------------|
 | I | The Austerity Paradox | Percentage framing obscured salary-tier asymmetry in cuts; named decision-makers identified | **YELLOW** — S-275 data verified; needs VPS definition of "central office" confirmed verbatim |
-| II | The Accountability Void | $28M+ in agency spending during austerity via procurement exemption; governance blind spots | **RED** — $27.9M figure needs primary document confirmation; MSA not obtained; Object 7 trend data incomplete |
+| II | The Accountability Void | $11.89M+ in agency spending during austerity via procurement exemption; governance blind spots | **RED** — $11.89M figure needs primary document confirmation; MSA not obtained; Object 7 trend data incomplete |
 | III | The Regulatory Cliff | Emergency borrowing spiral, state intervention risk, human cost, incoming superintendent's challenge | **YELLOW** — All borrowing data documented; staffing growth analysis verified; OSPI escalation framework confirmed |
 
 ### What Changed from v2.0

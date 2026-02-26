@@ -101,7 +101,7 @@ Corporate facts:
 - **Parent company:** Maxim Healthcare Services (Columbia, MD)
 - **Rebrand year:** 2022
 - **Fraud history:** $150M Medicaid fraud settlement (2011) — billing for services not rendered, falsified timesheets
-- **Transition fingerprint:** In 2022-23, VPS paid Maxim $14.4M and Amergis $0. By 2024-25, Maxim received $46,625 and Amergis received $27.9M. Same entity, new name.
+- **Transition fingerprint:** In 2022-23, VPS paid Maxim $14.4M and Amergis $0. By 2024-25, Maxim received $46,625 and Amergis received $11.89M. Same entity, new name.
 - **Combined total in SQLite:** $67,255,003.75
 
 ### Pioneer Disambiguation (Four Separate Entities)

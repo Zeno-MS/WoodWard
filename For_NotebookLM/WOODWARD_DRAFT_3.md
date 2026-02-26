@@ -12,7 +12,7 @@ The stated reason was declining enrollment and a squeeze in state funding.
 
 The unstated reality—buried deep within the district's "Object 7" accounting lines—was that the Human Resources and Business Services departments had quietly surrendered their core functions to for-profit staffing corporations. 
 
-In that exact same 2024-25 austerity year, the district wired **$27,904,823** to a single private healthcare staffing corporation known as Amergis Healthcare Staffing.
+In that exact same 2024-25 austerity year, the district wired **$10,970,973** to a single private healthcare staffing corporation known as Amergis Healthcare Staffing.
 
 Amergis did not emerge from nowhere. It is the rebranded successor to Maxim Healthcare Services, a company that paid a record $150 million in 2011 to resolve federal criminal and civil charges of Medicaid fraud. 
 
@@ -39,7 +39,7 @@ No single vendor benefits from this structural shift more than Amergis Healthcar
 - **2021-22:** VPS paid Maxim $5.3 million.
 - **2022-23:** VPS paid Maxim $14.4 million.
 - **2023-24:** The handoff year. Maxim was paid $8.06 million, while the newly rebranded Amergis debuted with $5.4 million.
-- **2024-25:** The austerity year. Maxim payments zeroed out ($46k), and Amergis billed the district **$27.9 million**.
+- **2024-25:** The austerity year. Maxim payments zeroed out ($46k), and Amergis billed the district **$11.89 million**.
 
 The invoices quintupled in three years seamlessly. This scale of spending largely avoided public scrutiny because it was consistently placed on the Board's "Consent Agenda"—a mechanism designed for routine, non-controversial items (like approving meeting minutes) that allows the board to pass dozens of items simultaneously, with a single, un-debated vote. 
 
@@ -57,7 +57,7 @@ Based on an analysis of regional contractor bill rates compared against internal
 - An internal Speech-Language Pathologist (SLP) costs approximately $108,000. An agency SLP bills at roughly $124,687 — a **$16,687 premium (15.4%)**.
 - A Behavior Tech carries a staggering **31.9% premium**, costing the district $18,112 more per year than a direct hire.
 
-This gap is pure "Lost Efficiency." Translated across $27.9 million in a single year, the district is burning the exact millions it claims it needs to balance the budget simply to cover the corporate markup of a middleman.
+This gap is pure "Lost Efficiency." Translated across $11.89 million in a single year, the district is burning the exact millions it claims it needs to balance the budget simply to cover the corporate markup of a middleman.
 
 ---
 
@@ -67,7 +67,7 @@ The "Agency Trap" does not build itself. It requires the systemic failure of the
 
 The structural reliance on Amergis raises unavoidable questions about the performance and integrity of the departments led by **Jeff Fish**, Executive Director of Human Resources, and **Brett Blechschmidt**, the district’s Chief Financial Officer.
 
-Fish’s HR department is charged with recruiting and retaining public educators. The ballooning of the Amergis contract to $27.9 million indicates his department is either so historically inept that it can no longer successfully hire its own employees, or it has functionally abandoned the effort in favor of outsourcing. 
+Fish’s HR department is charged with recruiting and retaining public educators. The ballooning of the Amergis contract to $11.89 million indicates his department is either so historically inept that it can no longer successfully hire its own employees, or it has functionally abandoned the effort in favor of outsourcing. 
 
 In corporate settings, a manager who outsources $28 million of their core function to a single external vendor at a massive premium would immediately trigger audits for kickbacks or sweetheart deals. The rapid, un-flagged expansion of the Amergis relationship—alongside a complete lack of internal capacity building—makes it a valid question for public oversight.
 
@@ -81,7 +81,7 @@ When district financial leadership presents austerity as unavoidable while maint
 
 *(Note: These questions must be submitted to the district for a Right of Reply before publication)*
 
-1. Can HR Director Jeff Fish explain why his department was unable to directly recruit the staff provided by Amergis at a 15-30% premium, and what specific steps, if any, HR took to build internal capacity before escalating the Amergis contract to $27.9 million?
+1. Can HR Director Jeff Fish explain why his department was unable to directly recruit the staff provided by Amergis at a 15-30% premium, and what specific steps, if any, HR took to build internal capacity before escalating the Amergis contract to $11.89 million?
 2. Has the district or any external auditor ever formally investigated the procurement and contracting process between VPS Human Resources and Amergis/Maxim Healthcare to rule out conflicts of interest?
 3. Can CFO Brett Blechschmidt explain why his office allowed "Object 7" purchased services spending to expand to 11.67% of the budget ($47.3M) in the exact same year (2024-2025) he cited a $35M deficit requiring the termination of 260+ classroom positions?
-4. Did the Board of Directors formally debate the transition from Maxim to Amergis, and was a competitive re-bid conducted for the $27.9 million 2024-25 contract?
+4. Did the Board of Directors formally debate the transition from Maxim to Amergis, and was a competitive re-bid conducted for the $11.89 million 2024-25 contract?
