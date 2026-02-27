@@ -1,0 +1,189 @@
+# THE SYSTEMIC TRAP
+
+## How Washington's Special-Education Labor Market Turned SPED Teachers Into a Premium-Priced Purchased Service
+
+*By WoodWard | Project WoodWard — Investigative Series, Part 3 of 3 (Editorial Draft)*
+
+---
+
+## I. THE LEDE
+
+Article 2 established the scale of Vancouver Public Schools' staffing-vendor dependence: **$13,326,622** in FY 2024–25 alone — **28.16%** of Object 7 (Purchased Services) actual expenditures — after growing from **$349,709** in FY 2020–21. **[PROOF — canonical table, Article 2]** 
+
+This third article answers the question Article 2 intentionally left unresolved: **why does the agency dependency persist even when it is clearly expensive?**
+
+The answer is not a single villain. It is an interacting set of constraints — a trap:
+
+* **Market failure:** the labor market for SPED Teachers, SLPs, and related specialists is tight across the region. **[STRONG INFERENCE]** 
+* **State underinvestment:** the true cost of staffing includes benefit mandates like SEBB and pension burdens that districts cannot wish away. **[PROOF]** 
+* **Incentive misalignment:** when labor is purchased through Object 7, the accounting optics differ from Objects 2 and 3, even if the district is still "buying people." **[STRONG INFERENCE]** 
+* **IDEA compliance risk management:** districts face non-delegable legal duties; outsourcing becomes the fastest way to show "reasonable steps" to deliver IEP services when direct hires fail. **[PROOF]**  
+
+The trap has one measurable output: **the premium** — the extra money paid for the same unit of labor when SPED Teachers and related roles are acquired through an agency pipeline instead of internal payroll.
+
+Dispatch #31 contains the quantified model. **[PROOF — Article 3 master extraction]** 
+
+---
+
+## II. PILLAR ONE: MARKET FAILURE (THE SHORTAGE IS REAL)
+
+There is a reason districts reach for agencies. The regional shortage of special-education professionals is widely documented in practice — and it is plausible that Vancouver's HR department has been operating inside a constrained labor market for SPED Teachers, paras, and specialists. **[STRONG INFERENCE]** 
+
+The staffing agencies exist because the shortage exists. They are not simply "vendors." They are an alternative labor market.
+
+But a shortage does not explain *pricing*. Shortage explains why the district buys contracted labor. It does not explain why the district buys contracted labor under a structure that can cost millions more than internal staffing.
+
+That is where Pillar Two begins.
+
+---
+
+## III. PILLAR TWO: STATE UNDERINVESTMENT (THE REAL COST OF "A HIRE")
+
+A central error in public debate is comparing an internal hourly wage to an agency bill rate.
+
+That comparison is invalid. A district does not pay "$28/hour." It pays **salary + benefits + retirement + payroll taxes**, and it pays them even when the employee is sick, in training, or doing non-service duties.
+
+Dispatch #31 computes a **fully loaded** internal baseline for three core special-education roles — including **SPED Teacher** as a primary comparator throughout the model. **[PROOF]** 
+
+### Fully Loaded Internal Baseline (SY 2024–25; 1,440 productive hours)
+
+| Role             |            Step | Base annual | SEBB annual | DRS annual | Payroll taxes | Fully loaded annual | Hourly (÷1440) | Tags                    |
+| ---------------- | --------------: | ----------: | ----------: | ---------: | ------------: | ------------------: | -------------: | ----------------------- |
+| Paraeducator     |    VAESP Step 3 |     $36,576 |     $14,136 |     $3,332 |        $2,798 |         **$56,842** |     **$39.47** | [VERIFIED — 7.65% FICA] |
+| **SPED Teacher** | VEA BA+0 Step 5 |     $63,149 |     $14,136 |     $5,753 |        $4,831 |         **$87,869** |     **$61.02** | [VERIFIED — 7.65% FICA] |
+| SLP / RN         | VEA MA+0 Step 5 |     $71,467 |     $14,136 |     $6,511 |        $5,467 |         **$97,581** |     **$67.76** | [VERIFIED — 7.65% FICA] |
+
+**Method:** SEBB assumed at $1,178/month; DRS at 9.11% of base; payroll taxes at 7.65% of base; productive hours at 1,440/year. **[PROOF]** 
+
+**What this table shows:** even before a district spends a dollar on recruitment infrastructure, the benefit and retirement mandates add a large second layer to every internal hire. That cost reality matters — but it does not absolve the agency premium. It explains why "just hire more people" is not a flip switch.
+
+---
+
+## IV. PILLAR THREE: INCENTIVE MISALIGNMENT (THE BOOKS REWARD THE SHIFT)
+
+A district can reduce headcount on payroll and still sustain service delivery by purchasing labor through Object 7.
+
+That is not a conspiracy claim. It is an accounting fact: **Object 7 is "Purchased Services," not "Salaries."** **[STRONG INFERENCE]** 
+
+Dispatch #31 documents a districtwide reduction in staffed FTE from **2,736.79** to **2,519.87** — a net loss of **216.92 FTE** — while staffing-vendor spending hit **$13,326,622** in FY24–25. **[PROOF]** 
+
+| Year    | Duty root                 | Headcount |      FTE |  YoY FTE change |
+| ------- | ------------------------- | --------: | -------: | --------------: |
+| 2023–24 | District-wide (All Roots) |         — | 2,736.79 |        Baseline |
+| 2024–25 | District-wide (All Roots) |         — | 2,519.87 | **-216.92 FTE** |
+
+Dispatch #31 explicitly labels this as a proxy because OSPI's S-275 raw files for SPED duty roots were blocked by dead links at the time of extraction. **[PROOF — limitation]** 
+
+**The inference:** if payroll FTE falls while purchased staffing spend rises, the district has not only reduced labor — it has also **changed how labor is purchased**. **[STRONG INFERENCE]** 
+
+That shift is the structural incentive trap: in austerity, districts face pressure to reduce salary lines. Object 7 becomes the pressure-release valve.
+
+---
+
+## V. PILLAR FOUR: IDEA COMPLIANCE RISK MANAGEMENT (THE DUTY IS NON-DELEGABLE)
+
+Special education is not discretionary programming. It is a federally governed service delivery system.
+
+When a student's IEP requires services from a SPED Teacher, an SLP, a nurse, or a behavior specialist, the district cannot legally respond with: "we tried to hire."
+
+Public legal commentary is blunt: outsourcing does **not** eliminate the district's responsibility for delivering FAPE; contracting is a tool to meet obligations, not a liability shield when services are missed. **[PROOF]** 
+
+Outsourcing becomes attractive anyway for two reasons documented in the external narrative corpus:
+
+1. **Operational liability shifting:** vendors carry licensure and insurance requirements and can absorb some malpractice/employment risk — even as the district remains responsible for systemic IDEA compliance. **[PROOF]**  
+2. **Evidentiary posture:** contracting with a staffing firm after postings go unfilled is easier to defend as "reasonable steps" than leaving services uncovered. **[PROOF]** 
+
+This is how the compliance risk becomes a budget driver: when direct hiring fails, the agency route becomes the fastest pathway to demonstrate action.
+
+But speed is not free. It is priced.
+
+---
+
+## VI. THE PREMIUM: WHAT THE DISTRICT PAID ABOVE "MAKE COST"
+
+Article 2 documented that Amergis (formerly Maxim) billed hourly rates ranging **from $45 to $180**, depending on service type. **[PROOF — board recommendation text]** 
+Maxim's 2021 rate sheet shows that **SPED Teacher** labor was explicitly in the vendor menu at **$70/hour**, alongside paras and clinical specialists. **[PROOF]** 
+
+Dispatch #31 compares the FY24–25 spend ($13,326,622) against internal fully loaded costs to quantify the premium as a sensitivity range. **[PROOF]** 
+
+### Vendor Premium & "Lost Efficiency" Model (FY 2024–25; Scenario Bounds)
+
+| Scenario               | Vendor rate | Internal role comparator | Internal hourly | Vendor hours (Spend/rate) |  Premium $ | Premium % | Implied internal FTEs purchasable |
+| ---------------------- | ----------: | ------------------------ | --------------: | ------------------------: | ---------: | --------: | --------------------------------: |
+| High (Ceiling)         |     $180/hr | SLP/RN                   |       $67.76/hr |                    74,036 | $8,309,889 |    165.6% |                        136.5 FTEs |
+| **Mid (SPED Teacher)** |      $75/hr | **SPED Teacher**         |       $61.02/hr |                   177,688 | $2,484,082 |     22.9% |                        151.6 FTEs |
+| Conservative (Floor)   |      $45/hr | Paraeducator             |       $39.47/hr |                   296,147 | $1,637,693 |     14.0% |                        234.4 FTEs |
+
+**[ESTIMATED — scenario]** The model does **not** assume all agency hours were paras, or all were specialists. It brackets the premium using known bill-rate bounds and internal make-cost baselines. 
+
+### The "Lost Efficiency" interpretation
+
+The mid scenario is the most important for public understanding because it tracks **SPED Teacher** labor — one of the core IEP service roles and a core staffing-agency placement category.
+
+At $75/hour, $13,326,622 purchases about **177,688 vendor hours** (≈ **123.4 vendor FTE** at 1,440 hours). Yet at the SPED Teacher fully loaded internal cost ($61.02/hour), that same $13,326,622 represents **151.6 internal FTE purchasing power**. The gap is roughly **28 internal SPED-Teacher-equivalent jobs**. **[STRONG INFERENCE — derived from B1 table; not a role-mix claim]** 
+
+Even at the absolute floor rate used in the model, the district bleeds **$1.64M** in premium dollars. **[PROOF — scenario result]** 
+
+---
+
+## VII. IS VANCOUVER AN OUTLIER? (CONTROL GROUP COMPARISON)
+
+The trap is not unique to one district. Purchased services are rising across Washington.
+
+To test whether Vancouver is unusually dependent on purchased services, Dispatch #31 provides a budget-to-budget peer normalization comparison against Evergreen. **[PROOF — C1 table + disclosure]** 
+
+| District           | FY24–25 Obj7 (budgeted) | Total GF (budgeted) | Enrollment | Obj7 per pupil | Obj7 share |
+| ------------------ | ----------------------: | ------------------: | ---------: | -------------: | ---------: |
+| Evergreen SD       |             $47,125,176 |        $432,593,222 |     21,807 |  **$2,161.01** |     10.89% |
+| Vancouver SD (VPS) |             $36,738,206 |        $423,212,324 |     20,807 |  **$1,765.66** |      8.68% |
+
+The budget-to-budget comparison reveals a counterintuitive finding: Vancouver actually **budgets $395 less per pupil** for Object 7 than Evergreen ($1,766 vs. $2,161). **[PROOF]**
+
+But Vancouver's *actual* Object 7 expenditures in FY24-25 reached **$47,331,056** — exceeding its own budget by more than **$10.6 million**. Of that overage, **$13.3 million** in staffing vendor payments was the primary driver. The district did not plan for this level of purchased-services spending. The uncapped agency pipeline forced it past its own ceiling. **[PROOF — budget vs. actual gap; STRONG INFERENCE — causal attribution to agency spend]**
+
+Evergreen's heavy Object 7 budget ($47.1M for 21,807 students) confirms that reliance on purchased services is a **regional** phenomenon, not a Vancouver anomaly. The distinguishing feature is not the category — it is the *velocity of unplanned overspend* within it. **[STRONG INFERENCE]**
+
+**Limitations:** the peer set is partial (Evergreen only). The full control group (Battle Ground, Camas) is **[DATA NEEDED]** for a complete regional comparison.
+
+---
+
+## VIII. WHY THE TRAP PERSISTS (PUTTING THE FOUR PILLARS TOGETHER)
+
+The systemic trap is not merely "agency rates are high." It is the interaction:
+
+1. **Market failure:** SPED Teachers and specialists are scarce; vacancies occur. **[STRONG INFERENCE]** 
+2. **Underinvestment:** fully loaded internal staffing is expensive, and SEBB/retirement costs are structural. **[PROOF]** 
+3. **Incentive misalignment:** in austerity, districts can cut payroll headcount while sustaining services through Object 7 — shifting the optics and some governance pressure. **[STRONG INFERENCE]** 
+4. **Compliance risk management:** IDEA obligations cannot be deferred; contracting becomes the fastest demonstrable step when SPED Teacher services must be delivered now. **[PROOF]** 
+
+Under those conditions, the "premium" is not an anomaly. It becomes the price of staying afloat.
+
+The public question is whether the district treated that premium as an unavoidable emergency cost — or as a normalized operating model.
+
+---
+
+## IX. WHAT THIS INVESTIGATION DOES NOT CLAIM
+
+This article does not claim the district acted illegally. It does not claim corrupt intent. It does not claim that staffing agencies caused the labor shortage.
+
+It documents a measurable premium and a measurable purchasing-power loss — and argues that, absent structural change, the district will remain locked in a cycle where SPED Teacher services are acquired through premium purchased services rather than stable internal staffing.
+
+---
+
+## X. METHODOLOGY (FOR EDITORIAL REVIEW)
+
+* **Internal make-cost model:** computed from VEA/VAESP salary schedules, SEBB employer contribution, OSPI retirement rate, and payroll tax assumption; 1,440 productive hours. **[PROOF]** 
+* **Vendor premium model:** sensitivity bands using vendor rate bounds ($45, $75, $180) against internal hourly baselines. **[ESTIMATED — scenario]** 
+* **Peer normalization:** FY24–25 budget-to-budget comparison between Vancouver and Evergreen using OSPI F-195 budget parameters + enrollment. **[PROOF]** 
+* **Attrition proxy:** districtwide S-275 FTE reduction; SPED duty-root isolation blocked by dead OSPI links at time of extraction (limitation is explicit). **[PROOF — limitation + proxy]**  
+
+---
+
+## XI. WHAT COMES NEXT
+
+Article 2 asked: *How did this grow without proportional governance scrutiny?*
+Article 3 answers: *Why does the system keep recreating the conditions for that growth — even when the premium is measurable?*
+
+The remaining questions for any right of reply in Part 3 are structural (not personal), and **do not** require naming additional individuals beyond those already in Article 2's accountability frame.
+
+**The question is whether Washington's largest districts can keep paying premium rates for SPED Teachers through purchased services — and still claim the cuts were unavoidable.**

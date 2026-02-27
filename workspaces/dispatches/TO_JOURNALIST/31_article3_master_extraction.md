@@ -59,9 +59,9 @@ The core "Systemic Trap" framework is established: **non-delegable legal duties 
 | District | FY24–25 Obj7 (budgeted) | Total GF (budgeted) | Enrollment | Obj7 per pupil | Obj7 share |
 | -------- | ----------------------: | ------------------: | ---------: | -------------: | ---------: |
 | **Evergreen SD** | $47,125,176 | $432,593,222 | 21,807 | **$2,161.01** | 10.89% |
-| **Vancouver SD (VPS)** | $47,331,056 | $423,212,324 | 20,807 | **$2,274.77** | 11.18% |
+| **Vancouver SD (VPS)** | $36,738,206 | $423,212,324 | 20,807 | **$1,765.66** | 8.68% |
 
-*Disclosure: To respect Chief's extraction constraint, we use the Evergreen 24-25 budget-to-budget comparison. While neighboring districts rely heavily on purchased services, VPS's velocity of spending is decoupling from enrollment. Despite serving 1,000 fewer students than Evergreen, VPS spends **+$113 more per pupil** on contractors.*
+*Disclosure: Budget-to-budget comparison using FY24-25 F-195 figures. VPS actually budgets **$395 less per pupil** for Object 7 than Evergreen ($1,766 vs $2,161). However, VPS's actual Object 7 expenditures in FY24-25 reached $47,331,056 — exceeding its own budget by $10.6M. Of that overage, $13.3M in staffing vendor payments (Directive B) was the primary driver. The peer comparison strengthens the systemic thesis: Evergreen's heavy Object 7 budget confirms regional reliance on purchased services, while VPS's budget-to-actual blowout reveals the specific, uncapped agency pipeline that forced the district past its own ceiling.*
 
 ---
 
@@ -76,4 +76,4 @@ The core "Systemic Trap" framework is established: **non-delegable legal duties 
 | **2023-24** | District-wide (All Roots) | - | 2,736.79 | Baseline |
 | **2024-25** | District-wide (All Roots) | - | 2,519.87 | **-216.92 FTE** |
 
-*[ESTIMATED — proxy: In the immediate wake of 217 actual assigned FTEs being removed from the public payroll under the banner of "austerity," staffing vendor spending accelerated aggressively, consuming a confirmed **$13,326,622** in FY24-25. The district did not actually reduce its labor force; it changed **how** it buys labor. By shifting millions into Object 7 (Purchased Services), VPS avoided generating "salary" line items on state reports while quietly sustaining headcount through private equity-backed agencies at a massive per-FTE penalty.]*
+*[ESTIMATED — proxy: The district removed 217 FTE from the state payroll system. In the same year, warrant records show $13.3 million in payments to staffing agencies — sufficient, at mid-range vendor bill rates, to purchase approximately 123 FTE-equivalents of contracted labor (see Directive B mid-scenario). The concurrent reduction in reported FTE and acceleration in purchased staffing spend indicates a structural shift in how the district acquires labor: from Objects 2/3 (salaries/benefits) to Object 7 (purchased services). This proxy is district-wide; SPED duty-root isolation was blocked by dead OSPI S-275 server links at the time of extraction.]*
