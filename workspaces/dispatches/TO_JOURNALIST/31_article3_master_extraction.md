@@ -59,9 +59,11 @@ The core "Systemic Trap" framework is established: **non-delegable legal duties 
 | District | FY24–25 Obj7 (budgeted) | Total GF (budgeted) | Enrollment | Obj7 per pupil | Obj7 share |
 | -------- | ----------------------: | ------------------: | ---------: | -------------: | ---------: |
 | **Evergreen SD** | $47,125,176 | $432,593,222 | 21,807 | **$2,161.01** | 10.89% |
-| **Vancouver SD (VPS)** | $36,738,206 | $423,212,324 | 20,807 | **$1,765.66** | 8.68% |
+| **Battle Ground SD** | $32,727,029 | $242,645,492 | 12,353 | **$2,649.32** | 13.49% |
+| **Vancouver SD (VPS)** | $36,738,206 | $423,538,605 | 20,807 | **$1,765.67** | 8.67% |
+| **Camas SD** | — | — | — | — | [NOT AVAILABLE] |
 
-*Disclosure: Budget-to-budget comparison using FY24-25 F-195 figures. VPS actually budgets **$395 less per pupil** for Object 7 than Evergreen ($1,766 vs $2,161). However, VPS's actual Object 7 expenditures in FY24-25 reached $47,331,056 — exceeding its own budget by $10.6M. Of that overage, $13.3M in staffing vendor payments (Directive B) was the primary driver. The peer comparison strengthens the systemic thesis: Evergreen's heavy Object 7 budget confirms regional reliance on purchased services, while VPS's budget-to-actual blowout reveals the specific, uncapped agency pipeline that forced the district past its own ceiling.*
+*Disclosure: Budget-to-budget comparison using FY24-25 F-195 figures. VPS actually budgets **the lowest per-pupil Object 7** of the three reporting districts ($1,766 vs Battle Ground $2,649 and Evergreen $2,161). However, VPS's actual Object 7 expenditures in FY24-25 reached $47,331,056 — exceeding its own budget by $10.59M. Of that overage, $13.3M in staffing vendor payments (Directive B) was the primary driver. The peer comparison strengthens the systemic thesis: both peers budget significantly more Object 7 per pupil than VPS planned, confirming regional reliance on purchased services. VPS's anomaly is the velocity of unplanned overspend — the uncapped agency pipeline that forced the district past its own ceiling. Camas SD FY24-25 F-195 data was not publicly available at time of extraction [NOT AVAILABLE].*
 
 ---
 

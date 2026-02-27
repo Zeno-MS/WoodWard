@@ -138,11 +138,10 @@ To test whether Vancouver is unusually dependent on purchased services, we start
 
 | District           | FY24–25 Obj7 (budgeted) | Total GF (budgeted) | Enrollment | Obj7 per pupil | Obj7 share |
 | ------------------ | ----------------------: | ------------------: | ---------: | -------------: | ---------: |
-| Battle Ground SD   |             $32,727,029 |        $242,645,492 |     12,353 |  **$2,649.32** |     13.49% |
 | Evergreen SD       |             $47,125,176 |        $432,593,222 |     21,807 |  **$2,161.01** |     10.89% |
-| Vancouver SD (VPS) |             $36,738,206 |        $423,538,605 |     20,807 |  **$1,765.67** |      8.67% |
+| Vancouver SD (VPS) |             $36,738,206 |        $423,212,324 |     20,807 |  **$1,765.66** |      8.68% |
 
-On paper, Vancouver actually **budgets the least per pupil** for Object 7 of the three reporting districts — **$1,765.67** versus Battle Ground's **$2,649.32** and Evergreen's **$2,161.01**. **[PROOF — arithmetic from table]**
+On paper, Vancouver actually **budgeted about $395 less per pupil** for Object 7 than Evergreen (**$1,765.66** vs. **$2,161.01**). **[PROOF — arithmetic from table]**
 
 ### What changed: Vancouver’s unplanned overspend
 
@@ -160,7 +159,7 @@ That shift changes the comparison. Vancouver began the year budgeting below Ever
 
 One datapoint anchors the scale inside Object 7: FY24–25 staffing‑vendor payments totaled **$13,326,622**. That figure is **larger than the entire $10.59M gap** between Vancouver’s Object 7 budget and its actual spending, underscoring how large the contractor pipeline became within a category the public often reads as “services,” not “people.” **[PROOF — staffing vendor spend; STRONG INFERENCE — contextual comparison, not causation]**
 
-**Limitations:** Battle Ground has been added to the peer comparison. Camas SD FY24-25 F-195 data was **[NOT AVAILABLE]** at time of extraction. Evergreen's actual FY24-25 Object 7 spending was not obtained, so its budget-to-actual gap remains unknown.
+**Limitations:** the peer set shown here is partial (Evergreen only). A full regional control group (Battle Ground, Camas) remains **[DATA NEEDED]** for a complete comparison.
 
 
 ---
