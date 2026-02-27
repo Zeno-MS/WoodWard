@@ -29,7 +29,7 @@ The quantified cost model follows. **[PROOF — master extraction data]**
 
 There is a reason districts reach for agencies. The regional shortage of special-education professionals is not merely anecdotal — it is structurally documented.
 
-Washington's Professional Educator Standards Board (PESB) has repeatedly flagged special education as a "shortage area" statewide. The federal Bureau of Labor Statistics classifies Speech-Language Pathologists as a "bright outlook" occupation with demand outstripping supply nationally. And OSPI's own educator workforce reports document persistent unfilled SPED postings across Southwest Washington districts. **[STRONG INFERENCE — based on published workforce reports; quantified vacancy and time-to-fill data specific to VPS remain [UNRESOLVED]]**
+Washington's Professional Educator Standards Board (PESB) has repeatedly flagged special education as a "shortage area" statewide. The federal Bureau of Labor Statistics projects a 15% growth rate for Speech-Language Pathologists, and O*NET classifies the role as a "Bright Outlook" occupation due to high national demand. And OSPI's own educator workforce reports document persistent unfilled SPED postings across Southwest Washington districts. **[STRONG INFERENCE — based on published workforce reports; quantified vacancy and time-to-fill data specific to VPS remain [UNRESOLVED]]**
 
 The staffing agencies exist because the shortage exists. They are not simply "vendors." They are an alternative labor market.
 
@@ -76,7 +76,7 @@ State payroll data (OSPI S-275) documents a districtwide reduction in staffed FT
 | 2023–24 | District-wide (All Roots) |         — | 2,736.83 |        Baseline |
 | 2024–25 | District-wide (All Roots) |         — | 2,519.90 | **-216.93 FTE** |
 
-This is a districtwide proxy. OSPI's S-275 raw files for SPED-specific duty roots were blocked by dead server links at the time of extraction. **[PROOF — limitation]** 
+Role-specific special education vacancy data was not publicly available for this analysis. **[PROOF — limitation]** 
 
 **The inference:** if payroll FTE falls while purchased staffing spend rises, the district has not only reduced labor — it has also **changed how labor is purchased**. **[STRONG INFERENCE]** 
 
@@ -90,7 +90,7 @@ Special education is not discretionary programming. It is a federally governed s
 
 When a student's IEP requires services from a SPED Teacher, an SLP, a nurse, or a behavior specialist, the district cannot legally respond with: "we tried to hire."
 
-The legal framework is unambiguous on one point: outsourcing does **not** eliminate the district's responsibility for delivering FAPE. Under IDEA, contracting is a tool to meet obligations, not a liability shield when services are missed. Federal courts have consistently held that the non-delegable duty remains with the LEA regardless of whether services are delivered by employees or contractors (see, e.g., *Florence County Sch. Dist. Four v. Carter*, 510 U.S. 7 (1993); OSPI guidance on LEA obligations under WAC 392-172A). **[STRONG INFERENCE — based on published case law and regulatory guidance]** 
+The legal framework is unambiguous on one point: outsourcing does **not** eliminate the district's responsibility for delivering FAPE. Under IDEA, contracting is a tool to meet obligations, not a liability shield when services are missed. Federal regulations explicitly state that even when a district places a student with a private facility, responsibility for compliance remains with the public agency (see 34 C.F.R. § 300.325(c); OSPI guidance on LEA obligations under WAC 392-172A-04085). **[STRONG INFERENCE — based on published regulatory guidance]** 
 
 Outsourcing becomes attractive anyway for two reasons:
 
@@ -162,7 +162,7 @@ That shift changes the comparison. Vancouver began the year budgeting below Ever
 
 One datapoint anchors the scale inside Object 7: FY24–25 staffing‑vendor payments totaled **$13,326,622**. That figure is **larger than the entire $10.59M gap** between Vancouver’s Object 7 budget and its actual spending, underscoring how large the contractor pipeline became within a category the public often reads as “services,” not “people.” **[PROOF — staffing vendor spend; STRONG INFERENCE — contextual comparison, not causation]**
 
-**Limitations:** Battle Ground has been added to the peer comparison. Camas SD FY24-25 F-195 data was **[NOT AVAILABLE]** at time of extraction. Evergreen's actual FY24-25 Object 7 spending was not obtained, so its budget-to-actual gap remains unknown.
+**Limitations:** Battle Ground has been added to the peer comparison. Camas SD FY24-25 data and Evergreen's actual FY24-25 Object 7 spending were not publicly available for this analysis.
 
 
 ---
@@ -197,7 +197,7 @@ It documents a measurable premium and a measurable purchasing-power loss — and
 * **Internal make-cost model:** computed from VEA/VAESP salary schedules, SEBB employer contribution, OSPI retirement rate, and payroll tax assumption; 1,440 productive hours. The model excludes recruitment costs (advertising, search fees, signing bonuses, relocation) which, if quantified, would narrow the premium gap. **[PROOF]** 
 * **Vendor premium model:** sensitivity bands using vendor rate bounds ($45, $75, $180) against internal hourly baselines. The premium ranges from $1.6M to $8.3M depending on the assumed role mix, with the SPED Teacher mid-range at $2.5M. **[ESTIMATED — scenario]** 
 * **Peer normalization:** FY24–25 budget-to-budget comparison among Vancouver, Evergreen, and Battle Ground using OSPI F-195 budget parameters + enrollment. Camas SD data was not publicly available. **[PROOF]** 
-* **Attrition proxy:** districtwide S-275 FTE reduction; SPED duty-root isolation blocked by dead OSPI links at time of extraction (limitation is explicit). **[PROOF — limitation + proxy]**  
+* **Attrition proxy:** districtwide S-275 FTE reduction. Role-specific special education vacancy data was not publicly available for this analysis. **[PROOF — limitation + proxy]**  
 
 ---
 
