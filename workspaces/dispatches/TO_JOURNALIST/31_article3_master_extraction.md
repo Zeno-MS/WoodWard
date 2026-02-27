@@ -75,7 +75,7 @@ The core "Systemic Trap" framework is established: **non-delegable legal duties 
 
 | Year | Duty root | Headcount | FTE | YoY FTE change |
 | ---- | --------- | --------: | --: | -------------: |
-| **2023-24** | District-wide (All Roots) | - | 2,736.79 | Baseline |
-| **2024-25** | District-wide (All Roots) | - | 2,519.87 | **-216.92 FTE** |
+| **2023-24** | District-wide (All Roots) | - | 2,736.83 | Baseline |
+| **2024-25** | District-wide (All Roots) | - | 2,519.90 | **-216.93 FTE** |
 
 *[ESTIMATED — proxy: The district removed 217 FTE from the state payroll system. In the same year, warrant records show $13.3 million in payments to staffing agencies — sufficient, at mid-range vendor bill rates, to purchase approximately 123 FTE-equivalents of contracted labor (see Directive B mid-scenario). The concurrent reduction in reported FTE and acceleration in purchased staffing spend indicates a structural shift in how the district acquires labor: from Objects 2/3 (salaries/benefits) to Object 7 (purchased services). This proxy is district-wide; SPED duty-root isolation was blocked by dead OSPI S-275 server links at the time of extraction.]*
