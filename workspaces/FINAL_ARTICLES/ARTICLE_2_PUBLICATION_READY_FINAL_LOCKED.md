@@ -2,8 +2,6 @@
 
 ## How a $32 Million Vendor Relationship Grew Without Competitive Bidding, Without Separate Board Debate, and Without a Single Emergency Procurement Declaration
 
-*By WoodWard | Project WoodWard — Investigative Series, Part 2 of 4*
-
 ---
 
 ## I. THE LEDE
@@ -33,8 +31,6 @@ This investigation reviewed the full text of all publicly available VPS board me
 The governance pattern is documented in the district's own records:
 
 In **earlier board actions** available through BoardDocs, staffing vendor contracts appeared as **Action Items** — the board's formal mechanism for items requiring individual discussion and separate votes. The contract values at that time were modest: board materials from the period describe agreements serving three to five students, with estimated annual costs of approximately $220,000 per approval.
-
-By **2024**, as the vendor relationship approached $13 million annually, the approval mechanism had shifted. On July 9, 2024, the board approved the Amergis staffing contract for the 2024-25 school year via the **Consent Agenda**. On the same consent vote, the board also approved a CrowdStrike endpoint security software purchase and a school mascot selection for Vancouver Innovation, Technology & Arts.
 
 The board did acknowledge the corporate continuity. The June 18, 2024 Committee of the Whole agenda explicitly identified the vendor as "Amergis Education (formerly Maxim Healthcare)."
 
@@ -71,8 +67,6 @@ For an illustrative school psychologist bill rate of $100/hour, the placement fe
 ### Rate Escalation: 2021 to 2024
 
 The rate schedule attached to the 2021 Maxim agreement specified hourly rates ranging from $37-$45 for paraprofessionals to $85-$120 for school psychologists and BCBAs.
-
-By 2024, the board recommendation for the Amergis contract specified hourly rates ranging from **$45 to $180** — a 50% increase at the top end for the highest-billed roles.
 
 ---
 
@@ -260,35 +254,3 @@ All figures were locked on February 25, 2026 and independently verified on Febru
 No claim in this article relies on anonymous sources, internal documents not available through public channels, or data that cannot be independently verified by any competent journalist starting from public sources.
 
 ---
-
-## WHAT COMES NEXT
-
-**Article 3: The Systemic Trap** will examine the structural forces — federal IDEA mandates, state funding shortfalls, the SEBB benefit cost mandate, and regional labor market dynamics — that created the conditions for agency dependency. It will calculate the full cost of the vendor premium across the life of the Maxim/Amergis relationship and assess whether Vancouver's experience is an outlier or a symptom of a systemic failure in how Washington funds special education.
-
----
-
-## RIGHT OF REPLY
-
-*The following questions have been submitted to Vancouver Public Schools for response. The district's answers, when received, will be incorporated into the published version of this report. A minimum five-business-day response window has been provided.*
-
-*[See companion document: Right of Reply Questions — Article 2]*
-
----
-
-*Source documents cited in this report are publicly available and independently verifiable:*
-
-| Source | Description |
-|:---|:---|
-| VPS Warrant Registers (2020–2026) | Obtained via VPS BoardDocs portal; 193 PDF files, 25,578 unique payment records (post-dedup) |
-| Maxim Healthcare — Master Agreement (2021) | Sections 1.1, 1.2, 5.4–5.5, Attachment A; full contract text from BoardDocs |
-| OSPI F-195 Budget Reports (2020–2025) | Vancouver School District #37; Object 7 Budgeted and Actual |
-| VPS BoardDocs Meeting Records (2020–2025) | 204 meetings, 1,852 agenda items, 808 PDF attachments |
-| RCW 28A.335.190 | Certified 7/12/2024; competitive bidding statute |
-| VPS Board Policy 6220 | Bid or Proposal Requirements; 5 revisions (2021–2025) |
-| U.S. DOJ Press Release, Sept. 12, 2011 | Maxim Healthcare Services charged in criminal complaint, entered DPA, $150M resolution |
-| Document corpus | 5,367 text segments from board packets, contracts, minutes, warrant registers |
-
----
-
-*© 2026 Project WoodWard. All rights reserved.*
-*This document is a draft prepared for editorial review. Right of reply questions have been drafted but not yet submitted. This document should not be distributed externally until the right of reply process is complete and responses are incorporated.*

@@ -2,15 +2,27 @@
 
 ## How Washington's Special-Education Labor Market Made SPED Teachers a Premium-Priced Purchased Service
 
-*Investigative Series, Part 3 of 3*
+*Investigative Series, Part 3 of 4*
 
 ---
 
-## I. THE LEDE
+On a Tuesday evening in September 2025, eight hundred classified employees of Vancouver Public Schools — paraeducators, custodians, instructional aides — voted on whether to walk off the job.
 
-Article 2 established the scale of Vancouver Public Schools' staffing-vendor dependence: **$13,326,622** in FY 2024–25 alone — **28.16%** of Object 7 (Purchased Services) actual expenditures — after growing from **$349,709** in FY 2020–21.
+Eighty percent said yes.
 
-This third article answers the question Article 2 intentionally left unresolved: **why does the agency dependency persist even when it is clearly expensive?**
+The Vancouver Association of Educational Support Professionals authorized a strike after months of stalled bargaining over wages, staffing levels, and training. VAESP President Chipo Sowards framed the grievance in terms that had nothing to do with pay scales: "We want the employees, people who are experienced, who are skilled, who know those kids; kids respond better to stability." A tentative agreement was reached September 16, averting the walkout. Its terms were not publicly disclosed.
+
+The near-strike was not about money alone. It was about what happens when the adults who know the children — who know which student needs a quiet corner before a meltdown, which one responds to a firm redirect, which one will bolt if the routine changes — are replaced by rotating contractors who arrive without that knowledge and leave before they acquire it.
+
+That replacement is not hypothetical. It is the subject of this article.
+
+---
+
+## THE LEDE
+
+The previous installment in this series established the scale of Vancouver Public Schools' staffing-vendor dependence: **$13,326,622** in FY 2024–25 alone — **28.16%** of Object 7 (Purchased Services) actual expenditures — after growing from **$349,709** in FY 2020–21.
+
+This article answers the question the previous installment intentionally left unresolved: **why does the agency dependency persist even when it is clearly expensive?**
 
 The answer is not a single decision or decision-maker. It is an interacting set of constraints — a trap:
 
@@ -23,7 +35,7 @@ The trap has one measurable output: **the premium** — the extra money paid for
 
 ---
 
-## II. PILLAR ONE: MARKET FAILURE (THE SHORTAGE IS REAL)
+## PILLAR ONE: MARKET FAILURE (THE SHORTAGE IS REAL)
 
 There is a reason districts reach for agencies. The regional shortage of special-education professionals is not merely anecdotal — it is structurally documented.
 
@@ -37,7 +49,7 @@ That is where Pillar Two begins.
 
 ---
 
-## III. PILLAR TWO: STATE UNDERINVESTMENT (THE REAL COST OF "A HIRE")
+## PILLAR TWO: STATE UNDERINVESTMENT (THE REAL COST OF "A HIRE")
 
 A central error in public debate is comparing an internal hourly wage to an agency bill rate.
 
@@ -61,7 +73,7 @@ The cost model computes a **fully loaded** internal baseline for three core spec
 
 ---
 
-## IV. PILLAR THREE: INCENTIVE MISALIGNMENT (THE ACCOUNTING STRUCTURE ENABLES THE SHIFT)
+## PILLAR THREE: INCENTIVE MISALIGNMENT (THE ACCOUNTING STRUCTURE ENABLES THE SHIFT)
 
 A district can reduce headcount on payroll and still sustain service delivery by purchasing labor through Object 7.
 
@@ -82,7 +94,7 @@ That shift describes a structural incentive: in austerity, districts face pressu
 
 ---
 
-## V. PILLAR FOUR: IDEA COMPLIANCE RISK MANAGEMENT (THE DUTY IS NON-DELEGABLE)
+## PILLAR FOUR: IDEA COMPLIANCE RISK MANAGEMENT (THE DUTY IS NON-DELEGABLE)
 
 Special education is not discretionary programming. It is a federally governed service delivery system.
 
@@ -95,15 +107,19 @@ Outsourcing becomes attractive anyway for two reasons:
 1. **Operational liability shifting:** vendors carry licensure and insurance requirements and can absorb some malpractice/employment risk — even as the district remains responsible for systemic IDEA compliance.
 2. **Evidentiary posture:** contracting with a staffing firm after postings go unfilled is easier to defend as "reasonable steps" than leaving services uncovered.
 
-This is how the compliance risk becomes a budget driver: when direct hiring fails, the agency route becomes the fastest pathway to demonstrate action.
+Vendors market themselves explicitly on this compliance anxiety. Soliant's recruitment materials warn superintendents that vacant SPED positions and turnover increase "legal exposure" from missed IEP services, framing outsourced staff as a way to "stay compliant" with IDEA and avoid due-process complaints.
+
+For Vancouver Public Schools, the compliance pressure was not abstract. The Washington State Attorney General's office concluded a yearlong investigation in 2019, finding VPS disciplined students with disabilities at a rate of **13.5%** versus **4.7%** for nondisabled peers — and disciplined Black students at more than double the rate of white students "at every stage in the process." The investigation resulted in a formal resolution agreement requiring the district to retain UCLA's Center for Civil Rights Remedies for a three-year, $150,000 compliance monitoring engagement. Separately, an InvestigateWest/OPB investigation published in 2023 documented that VPS security officers continued using prohibited prone and supine restraints on students — including a fifth grader held face-down with a knee on his back for eighteen minutes — more than a year after Washington banned such practices in September 2021. VPS ranked **second in the entire state** for restraint use in the 2019–20 school year, with **880 documented restraints**, all but eleven involving students with disabilities. That is the institutional backdrop against which vendor contracts promising rapid "compliance solutions" arrived.
+
+This is how the compliance risk becomes a budget driver: when direct hiring fails — and when the district's own compliance record is under active state scrutiny — the agency route becomes the fastest pathway to demonstrate action.
 
 But speed is not free. It is priced.
 
 ---
 
-## VI. THE PREMIUM: WHAT THE DISTRICT PAID ABOVE "MAKE COST"
+## THE PREMIUM: WHAT THE DISTRICT PAID ABOVE "MAKE COST"
 
-Article 2 documented that Amergis (formerly Maxim) billed hourly rates ranging **from $45 to $180**, depending on service type. Maxim's 2021 rate sheet shows that **SPED Teacher** labor was explicitly in the vendor menu at **$70/hour**, alongside paras and clinical specialists.
+Amergis (formerly Maxim) billed hourly rates ranging **from $45 to $180**, depending on service type. Maxim's 2021 rate sheet shows that **SPED Teacher** labor was explicitly in the vendor menu at **$70/hour**, alongside paras and clinical specialists.
 
 The cost model compares the FY24–25 spend ($13,326,622) against internal fully loaded costs to quantify the premium as a sensitivity range.
 
@@ -127,7 +143,7 @@ Even at the absolute floor rate used in the model, the district pays **$1.64M** 
 
 ---
 
-## VII. IS VANCOUVER AN OUTLIER? (CONTROL GROUP COMPARISON)
+## IS VANCOUVER AN OUTLIER? (CONTROL GROUP COMPARISON)
 
 The trap is not unique to one district. Purchased services are rising across Washington.
 
@@ -163,7 +179,25 @@ One datapoint anchors the scale inside Object 7: FY24–25 staffing‑vendor pay
 
 ---
 
-## VIII. WHY THE TRAP PERSISTS (PUTTING THE FOUR PILLARS TOGETHER)
+## THE MISSING CONTEXT: SB 5263 AND THE END OF THE FUNDING EXCUSE
+
+For years, Washington districts cited a structural constraint as the root cause of special-education staffing gaps: the state's **16% enrollment cap** on special education funding. Under the prior formula, districts received state funding for special education students only up to 16% of total enrollment — regardless of how many students actually qualified for services. Any student above that threshold was funded entirely from local dollars. The gap was real: OSPI estimated the cumulative shortfall at **$529.8 million** statewide between FY 2019 and FY 2024.
+
+That excuse ended on May 19, 2025.
+
+Governor Bob Ferguson signed **SB 5263** into law on May 19, 2025, after the bill passed the House **97–0** and the Senate **48–0** — unanimous in both chambers, with only excused absences. The legislation removes the 16% cap entirely, sets the special education excess cost multiplier at a flat **1.16** (replacing the prior tiered rate structure), and directs an estimated **$870 million** in additional state funding to districts over four years, according to the bill's sponsors. Advocates specifically stated the legislation could enable districts to hire permanent staff instead of relying on contractors.
+
+The question the cap repeal sharpens is not whether districts *had* a funding excuse. They did. The question is what they do now that the excuse has been legislatively eliminated.
+
+At VPS, the early evidence is not encouraging. Interim Superintendent Brett Blechschmidt, appointed May 2025, acknowledged the state increased special education funds but stated it was **"still not enough to cover the costs and meet the needs of those students."** The 2025–26 budget drew the fund balance from $7 million down to **$195,180** to avoid layoffs. VPS requested a **$21.4 million advance** on state funding — the largest request from any Washington district — and received only $8.7 million. By December 2025, the board approved borrowing from the Clark County Treasurer's Office through interest-bearing registered warrants.
+
+No public commitment from district leadership was found regarding converting agency-staffed positions to permanent hires. No board discussion was documented addressing how SB 5263 funds would be strategically allocated to reduce contractor dependency. No strategic plan for reducing purchased services spending exists in publicly available VPS documents. A projected **$20.15 million deficit for 2026–27** means further cuts are planned — not position conversions.
+
+The systemic trap described in this article existed under the constraint of the 16% cap. That constraint is now gone. Whether VPS will use the new funding to break the cycle — or whether the cycle will simply absorb the new money — is the defining fiscal question for the district's 3,700 special education students.
+
+---
+
+## WHY THE TRAP PERSISTS (PUTTING THE FOUR PILLARS TOGETHER)
 
 The systemic trap is not merely "agency rates are high." It is the interaction:
 
@@ -172,7 +206,9 @@ The systemic trap is not merely "agency rates are high." It is the interaction:
 3. **Incentive misalignment:** in austerity, districts can cut payroll headcount while sustaining services through Object 7 — shifting the optics and some governance pressure.
 4. **Compliance risk management:** IDEA obligations cannot be deferred; contracting becomes the fastest demonstrable step when SPED Teacher services must be delivered now.
 
-And the trap has a lock. As documented in Article 2, the district's staffing contracts include a **$5,000 placement fee** (or **30% of annual salary**) for converting a contracted worker to a direct hire. That conversion penalty means that even when the district successfully identifies and recruits an agency-placed professional for permanent employment, it pays a toll to extract them from the vendor pipeline. The premium is not only structural — it is contractually self-reinforcing.
+And the trap has a lock. The district's staffing contracts include **a placement fee equal to the greater of $5,000 or 30% of annualized salary** for converting a contracted worker to a direct hire. That conversion penalty means that even when the district successfully identifies and recruits an agency-placed professional for permanent employment, it pays a toll to extract them from the vendor pipeline. The premium is not only structural — it is contractually self-reinforcing.
+
+The trap also lacks a sustained institutional steward. VPS's Special Services department — the unit managing the district's largest vendor relationship and its entire IDEA compliance apparatus — has cycled through five leadership changes in seven years: Martinek, then Daniel Bettis, then Bergeron (whose departure was described internally as "following our loss of"), then Jami Phelps, then the current Arkoosh/Laurenzo structure. No Executive Director of Special Services served long enough to design, implement, and measure a multi-year strategy for reducing contractor dependency. Each transition reset institutional knowledge; each reset deepened reliance on the vendor pipeline that required no institutional memory to operate.
 
 Under those conditions, the "premium" is not an anomaly. It becomes the price of staying afloat.
 
@@ -180,19 +216,10 @@ The public question is whether the district treated that premium as an unavoidab
 
 ---
 
-## IX. WHAT THIS INVESTIGATION DOES NOT CLAIM
+## WHAT THIS INVESTIGATION DOES NOT CLAIM
 
 This article does not claim the district acted illegally. It does not claim corrupt intent. It does not claim that staffing agencies caused the labor shortage.
 
 It documents a measurable premium and a measurable purchasing-power loss — and argues that, absent structural change, the district will remain locked in a cycle where SPED Teacher services are acquired through premium purchased services rather than stable internal staffing.
-
----
-
-## X. WHAT COMES NEXT
-
-Article 2 asked: *How did this grow without proportional governance scrutiny?*
-Article 3 answers: *Why does the system keep recreating the conditions for that growth — even when the premium is measurable?*
-
-The remaining questions for any right of reply in Part 3 are structural (not personal), and do not require naming additional individuals beyond those already in Article 2's accountability frame.
 
 **The question is whether Washington's largest districts can keep paying premium rates for SPED Teachers through purchased services — and still claim the cuts were unavoidable.**

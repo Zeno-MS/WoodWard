@@ -2,7 +2,7 @@
 
 ## How a $32 Million Vendor Relationship Grew Without Competitive Bidding, Without Separate Board Debate, and Without a Single Emergency Declaration
 
-*By WoodWard | Project WoodWard — Investigative Series, Part 2 of 3*
+*By WoodWard | Project WoodWard — Investigative Series, Part 2 of 4*
 
 ---
 

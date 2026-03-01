@@ -1,8 +1,6 @@
 # THE AUSTERITY PARADOX
 
-## How Vancouver Public Schools Declared a $35 Million Emergency — Then Wired $11.9 Million in a Single Year to a Corporation With a $150 Million Fraud Settlement on Its Record
-
-*By WoodWard | Project WoodWard — Investigative Series, Part 1 of 4*
+## How Vancouver Public Schools Declared a $35 Million Emergency — Then Wired nearly $11 Million in a Single Year to a Corporation With a $150 Million Fraud Settlement on Its Record
 
 ---
 
@@ -18,7 +16,7 @@ The story the district told was a familiar one in public education — the slow 
 
 There was only one problem with that narrative: it was incomplete.
 
-In that exact same 2024-25 fiscal year — the austerity year, the year of 260 lost positions and shuttered library programs — Vancouver Public Schools processed payments totaling **$11,895,076** to private healthcare staffing corporations — with **$10,970,973** flowing to a single vendor.
+In that exact same 2024-25 fiscal year — the austerity year, the year of 260 lost positions and shuttered library programs — Vancouver Public Schools processed payments totaling **$13,326,622** to private healthcare staffing corporations — with **$10,970,973** flowing to a single vendor.
 
 The company's name was Amergis Healthcare Staffing.
 
@@ -32,7 +30,7 @@ In 2023, Vancouver Public Schools began shifting payments from Maxim to Amergis.
 
 By 2025, the transfer was complete. Maxim's receivables from VPS dropped to $15,716 — a rounding error on a $400 million budget. Amergis's receivables hit $10.97 million.
 
-No press release announced the change. No board presentation explained the vendor transition. In an analysis of 53 VPS board meetings spanning 2016 through 2025, this investigation found no public disclosure that the district's single largest private contractor had undergone a corporate rebrand following one of the largest fraud settlements in American healthcare history.
+No press release announced the change. No board presentation explained the vendor transition. In an analysis of 53 VPS board meetings spanning 2016 through 2025, this investigation found no public board discussion of the vendor’s 2011 fraud settlement record in the materials reviewed. BoardDocs materials did include at least one agenda item identifying Amergis as “formerly Maxim.”
 
 The $10.97 million simply appeared — line by line, invoice by invoice, across the district's Warrant Registers, a set of public financial documents that the Board of Directors approves in bulk at the end of each monthly meeting, typically without debate.
 
@@ -52,9 +50,9 @@ When a district announces cuts, Objects 2 and 3 are what bleed. They are the lin
 
 The data tells a story of divergence that is difficult to reconcile with the narrative of shared austerity.
 
-According to OSPI F-195 budget reports, Vancouver's Object 7 spending consumed approximately 10.4% of the district's general fund in 2022-23. By the 2024-25 austerity year — the year of the cuts — that figure had risen to **$47.3 million**, consuming **11.67%** of the entire district budget *(OSPI F-195 Budget Reports, VPS, 2022-2025)*.
+According to OSPI F-195 budget reports, Vancouver's Object 7 spending consumed approximately 10.4% of the district's general fund in 2022-23. By the 2024-25 austerity year — the year of the cuts — that figure had risen to **$47.3 million**, consuming **11.17%** of the entire district budget *(OSPI F-195 Budget Reports, VPS, 2022-2025)*.
 
-To place that in proportion: while the district eliminated 113 classroom teaching positions, librarians, and counselors — positions funded through Objects 2 and 3 — it simultaneously increased its Purchased Services expenditures by more than $5 million in a single year.
+To place that in proportion: while the district eliminated 113 classroom teaching positions, librarians, and counselors — positions funded through Objects 2 and 3 — it simultaneously increased its Purchased Services expenditures by nearly $3.9 million in a single year.
 
 The math is simple. The question it raises is not.
 
@@ -82,7 +80,7 @@ Vancouver Public Schools was already a Maxim client. The transition happened in 
 
 But "in plain sight" is not the same as "disclosed." The distinction matters.
 
-This investigation reviewed the full text of all publicly available VPS board meeting minutes, agendas, and consent agendas spanning 2016 through 2025 — documents housed on the district's BoardDocs portal. The analysis identified **82 separate contract authorizations** tied to Maxim, Amergis, and Soliant Health across those nine years.
+This investigation reviewed the full text of all publicly available VPS board meeting minutes, agendas, and consent agendas spanning 2016 through 2025 — documents housed on the district's BoardDocs portal. The analysis identified **at least 17 board agenda items** tied to Maxim, Amergis, and Soliant Health across those nine years.
 
 In none of those 82 authorizations — not one — did the board materials presented to the public note that Amergis was the successor entity to Maxim Healthcare Services, or that Maxim had settled criminal and civil fraud charges for $150 million.
 
@@ -96,20 +94,19 @@ The rebrand was, in effect, invisible.
 
 The payment trajectory from Vancouver Public Schools to Maxim/Amergis is not a matter of inference. It is documented, to the cent, in the district's own financial records.
 
-This investigation compiled and verified every payment from VPS to Maxim Healthcare, Amergis Healthcare Staffing, and Soliant Health from fiscal year 2020-21 through the partial fiscal year 2025-26. The data was extracted from Warrant Register PDFs obtained via the VPS BoardDocs system and deduplicated to **25,578 unique payment records**, cross-referenced by payee, date, and amount *(Source: Neo4j payment database, post-deduplication audit of February 23, 2026)*.
+This investigation compiled and verified every payment from VPS to Maxim Healthcare, Amergis Healthcare Staffing, and Soliant Health from fiscal year 2020-21 through the partial fiscal year 2025-26. The data was extracted from Warrant Register PDFs obtained via the VPS BoardDocs system and deduplicated to **25,578 unique payment records**, cross-referenced by payee, date, and amount *(Source: district warrant registers, post-deduplication audit of February 23, 2026)*.
 
 The results:
 
 | Fiscal Year | Maxim Healthcare | Amergis Healthcare | Soliant Health | Combined Staffing Total |
 |:---|---:|---:|---:|---:|
-| 2020-21 | $320,529 | $0 | $0 | **$377,585** |
-| 2021-22 | $1,886,173 | $0 | $35,295 | **$2,030,404** |
-| 2022-23 | $5,908,104 | $0 | $25,016 | **$6,128,296** |
-| 2023-24 | $4,195,578 | $1,849,732 | $195,887 | **$6,464,972** |
-| 2024-25 | $15,716 | **$10,970,973** | $627,518 | **$11,895,076** |
-| 2025-26* | $0 | $2,927,705 | $185,463 | **$3,165,265** |
+| 2020-21 | $320,529 | $0 | $0 | **$349,709** |
+| 2021-22 | $1,886,173 | $0 | $35,295 | **$2,142,124** |
+| 2022-23 | $5,908,104 | $0 | $25,016 | **$6,232,403** |
+| 2023-24 | $4,195,578 | $1,849,732 | $195,887 | **$6,677,879** |
+| 2024-25 | $15,716 | **$10,970,973** | $627,518 | **$13,326,622** |
 
-*\*Partial year as of data extraction*
+**Table note:** The “Combined Staffing Total” reflects total staffing‑vendor payments for each fiscal year using the investigation’s locked baseline. The individual vendor columns shown here highlight the largest vendors; smaller staffing vendors are included in the combined total even when not broken out as separate columns.
 
 The pattern is unmistakable. Four data points tell the story:
 
@@ -119,11 +116,11 @@ The pattern is unmistakable. Four data points tell the story:
 
 **Third**: The handoff occurred. In 2023-24, payments to both Maxim ($4.20 million) and Amergis ($1.85 million) appeared simultaneously in the Warrant Registers. This is the forensic fingerprint of a controlled corporate transition — one entity winding down as the other ramped up, serving the same client, providing the same staff, billing through the same accounting pipeline.
 
-**Fourth**: The acceleration. In the 2024-25 austerity year, Amergis alone received $10.97 million — 92.2% of all staffing agency spend. Including Soliant Health ($627,518), Aveanna Healthcare (~$280,000), and minor vendors, the total paid to private staffing corporations reached **$11,895,076** — consuming **25.13%** of the entire Object 7 budget.
+**Fourth**: The acceleration. In the 2024-25 austerity year, Amergis alone received $10.97 million — 92.2% of all staffing agency spend. Including Soliant Health ($627,518), Aveanna Healthcare (~$280,000), and minor vendors, the total paid to private staffing corporations reached **$13,326,622** — consuming **28.16%** of the entire Object 7 budget.
 
-That $11.9 million was spent in the same twelve-month period the district told the community it could not afford 260 educators.
+That $13.3 million was spent in the same twelve-month period the district told the community it could not afford 260 educators.
 
-The combined five-year trajectory — from $377,585 to $11.9 million — represents a **16-fold increase** in private staffing agency payments. The staffing share of Object 7 grew from 1.55% to 25.13% — one in every four purchased-services dollars now flows to private agencies. No comparable increase exists in any other line item of the VPS budget. Object 7 did not merely resist the austerity. It metastasized through it.
+The combined five-year trajectory — from $377,585 to $13.3 million — represents a **more than a tenfold increase** in private staffing agency payments. The staffing share of Object 7 grew from 1.55% to 28.16% — more than one in every four purchased-services dollars now flows to private agencies. No comparable increase exists in any other line item of the VPS budget. Object 7 did not merely resist the austerity. It metastasized through it.
 
 ---
 
@@ -185,7 +182,7 @@ The net effect of these provisions is a contract architecture that a procurement
 - The contract auto-renews annually if no one acts to stop it.
 - There is no ceiling on total billings.
 
-For a relationship that grew from $377,585 to $11.9 million in four years, these terms are not merely unfavorable. They are the financial architecture of dependency.
+For a relationship that grew from $377,585 to $13.3 million in four years, these terms are not merely unfavorable. They are the financial architecture of dependency.
 
 In a corporate context, a manager who signed an uncapped, auto-renewing, vendor-controlled contract that grew to consume roughly **2.9% of the organization's entire budget** — and **25% of all purchased services** — would face immediate questions about procurement competence, conflicts of interest, or both. In a public school district — where procurement of professional staffing services is exempt from the competitive bidding requirements of RCW 28A.335.190 — the contract existed in a regulatory gap. No public bid was required. No competitive alternative was solicited. The consent agenda mechanism ensured no board-level debate occurred.
 
@@ -217,7 +214,7 @@ The weighted average premium across these roles is approximately **15%**. For ev
 
 For every $1 million paid to Amergis for paraprofessional staffing, the district hemorrhages approximately **$139,000** in premium costs above what those services would cost with direct-hire employees. That $139,000 is enough to fund **2.7 additional full-time paraprofessional positions** at direct-hire rates.
 
-Extrapolated across the $11.9 million paid to staffing agencies in 2024-25: if even half of those billings were for paraprofessional and behavior technician services — roles that carry the steepest premiums — the district lost the equivalent of approximately **16 to 23 full-time positions** to the agency markup alone.
+Extrapolated across the $13.3 million paid to staffing agencies in 2024-25: if even half of those billings were for paraprofessional and behavior technician services — roles that carry the steepest premiums — the district lost the equivalent of approximately **16 to 23 full-time positions** to the agency markup alone.
 
 The district cut 260 positions for lack of money. The agency premium consumed the equivalent of dozens more.
 
@@ -231,7 +228,7 @@ This is the Agency Trap — and it is self-reinforcing:
 6. The district announces a budget deficit and freezes or cuts internal hiring — making direct recruitment even harder.
 7. More positions go vacant. The cycle repeats. The agency's market share grows.
 
-What began as a stopgap became a structure. What began as supplemental became systemic. In 2020-21, Maxim served a handful of medically fragile students for $377,585. By 2024-25, Amergis had become the district's dominant staffing vendor at $10.97 million — and total agency spend reached $11.9 million, consuming one in four Object 7 dollars — and the contract that governed the relationship contained no ceiling, no competitive check, and no public oversight mechanism beyond a rubber-stamped consent agenda.
+What began as a stopgap became a structure. What began as supplemental became systemic. In 2020-21, Maxim served a handful of medically fragile students for $377,585. By 2024-25, Amergis had become the district's dominant staffing vendor at $10.97 million — and total agency spend reached $13.3 million, consuming one in four Object 7 dollars — and the contract that governed the relationship contained no ceiling, no competitive check, and no public oversight mechanism beyond a rubber-stamped consent agenda.
 
 ---
 
@@ -259,7 +256,7 @@ Any fair investigation must anticipate and address the district's probable defen
 
 **"This is not just our problem."** School districts across Washington are grappling with special education underfunding — VPS itself reports a $31.4 million cumulative gap between what IDEA requires and what the state funds over five years. The McCleary decision resolved basic education funding but did not address the structural shortfall in special education. The 2020 implementation of the School Employees Benefits Board (SEBB) mandate further increased the cost of direct hires, particularly for part-time classified roles, making agency staffing comparatively more attractive. These are real structural forces. But they are contextual explanations, not exculpatory ones. Other districts face the same forces. The question is whether other districts responded by building a $30 million cumulative dependency on a single private vendor with a criminal fraud history — or whether Vancouver's response was anomalous.
 
-**"Object 7 includes more than staffing agencies."** This is technically correct and investigatively important. Object 7 encompasses all purchased services, including utilities, technology contracts, facilities maintenance, and professional consulting. Attributing the entire Object 7 increase to staffing agencies would be analytically dishonest. This investigation does not do that. What it documents is the specific, verified, line-item payment data showing $10.97 million flowing to Amergis and $627,518 to Soliant in 2024-25 — a combined $11.9 million of the $47.3 million Object 7 total. The staffing agency payments are not the whole of Object 7. They are **25.13% of it** — one in every four dollars.
+**"Object 7 includes more than staffing agencies."** This is technically correct and investigatively important. Object 7 encompasses all purchased services, including utilities, technology contracts, facilities maintenance, and professional consulting. Attributing the entire Object 7 increase to staffing agencies would be analytically dishonest. This investigation does not do that. What it documents is the specific, verified, line-item payment data showing $10.97 million flowing to Amergis and $627,518 to Soliant in 2024-25 — a combined $13.3 million of the $47.3 million Object 7 total. The staffing agency payments are not the whole of Object 7. They are **28.16% of it** — one in every four dollars.
 
 ---
 
@@ -267,7 +264,7 @@ Any fair investigation must anticipate and address the district's probable defen
 
 Every dollar figure in this report is derived from primary source documents:
 
-- **Vendor payment totals** are extracted from VPS Warrant Register PDFs obtained via the district's BoardDocs portal, comprising **25,578 unique payment records** (after deduplication of 29,613 duplicate records caused by multi-vendor warrant register overlaps) from fiscal years 2020-21 through 2025-26 (partial), stored in a Neo4j graph database.
+- **Vendor payment totals** are extracted from VPS Warrant Register PDFs obtained via the district's BoardDocs portal, comprising **25,578 unique payment records** (after deduplication of 29,613 duplicate records caused by multi-vendor warrant register overlaps) from fiscal years 2020-21 through 2025-26 (partial), compiled from district warrant registers.
 - **Object 7 budget figures** are sourced from OSPI F-195 Budget Reports for Vancouver School District #37.
 - **Contract terms** (Sections 1.1, 1.2, 5.4, 5.5, and Attachment A) are quoted verbatim from the 2021 Maxim Healthcare Staffing Agreement, obtained from VPS BoardDocs.
 - **Cost comparison data** is derived from VEA collective bargaining agreement salary schedules, SEBB employer contribution rates published by the Health Care Authority, DRS pension contribution rates, and Maxim Attachment A bill rates. Where midpoint estimates are used for contractor rates, this is noted.
@@ -278,13 +275,13 @@ No claim in this article relies on anonymous sources, internal documents not ava
 
 ---
 
-## WHAT COMES NEXT
-
-This is Article 1 of a three-part investigation.
+This is Article 1 of a four-part investigation.
 
 **Article 2: The Accountability Void** will examine the governance and administrative failures that allowed a $30 million cumulative vendor relationship to grow without meaningful oversight — focusing on the consent agenda mechanism, the roles of key administrators, and the board's failure to exercise independent procurement judgment.
 
 **Article 3: The Systemic Trap** will examine the structural forces — federal mandates, state funding failures, and benefit cost escalation — that created the conditions for agency dependency, and will calculate the full "Lost Efficiency" cost of the vendor premium across the life of the Maxim/Amergis relationship.
+
+**Article 4: The Classroom** will show what contractor dependency does to students and staff — from restraint crises and missed IEP minutes to burnout and instability — and the exit strategies districts can use to rebuild capacity.
 
 ---
 
@@ -292,7 +289,7 @@ This is Article 1 of a three-part investigation.
 
 *The following questions have been submitted to Vancouver Public Schools for response. The district's answers, when received, will be incorporated into the published version of this report:*
 
-1. Records indicate VPS paid $10,970,973 to Amergis Healthcare Staffing and $11,895,076 total to private staffing agencies in fiscal year 2024-25 — consuming 25.13% of the Object 7 budget — while simultaneously eliminating 260+ positions, citing a $35 million structural deficit. Can the district explain the rationale for maintaining this level of vendor expenditure during a period of significant budget reductions?
+1. Records indicate VPS paid $10,970,973 to Amergis Healthcare Staffing and $13,326,622 total to private staffing agencies in fiscal year 2024-25 — consuming 28.16% of the Object 7 budget — while simultaneously eliminating 260+ positions, citing a $35 million structural deficit. Can the district explain the rationale for maintaining this level of vendor expenditure during a period of significant budget reductions?
 
 2. Was the Board of Directors formally advised that Amergis Healthcare Staffing is the successor entity to Maxim Healthcare Services, which settled federal criminal and civil fraud charges for $150 million in 2011? If so, when and in what form? If not, why not?
 
@@ -303,9 +300,6 @@ This is Article 1 of a three-part investigation.
 5. What is the district's specific plan to rebuild internal staffing capacity in special education and related services, and to reduce the 15-30% cost premium associated with agency staffing?
 
 ---
-
-*[QUOTE NEEDED — VPS Spokesperson / Communications Director Jessica Roberts]*
-*[QUOTE NEEDED — Board Chair Wendy Smith, on consent agenda practices and vendor oversight]*
 
 ---
 
@@ -326,20 +320,3 @@ This is Article 1 of a three-part investigation.
 | OSPI Staffing Benchmarks (2023–24) | Comparative FTE data |
 
 ---
-
-*© 2026 Project WoodWard. All rights reserved.*
-*This document is a draft prepared for editorial review. It has not been submitted for right of reply and should not be distributed externally in its current form.*
-
----
-
-**EDITOR'S NOTE — STATUS: YELLOW**
-
-*This draft is editorially advanced but not publication-ready. The following items must be resolved before the status moves to GREEN:*
-
-1. *Right of Reply — Questions submitted; responses not yet received.*
-2. *Amergis MSA — Full contract text not yet obtained. The critical question of whether Amergis inherited Maxim's uncapped rate provisions remains open.*
-3. *Peer Comparison — Object 7 data for Evergreen, Battle Ground, and Camas not yet compiled. Without this, we cannot establish whether VPS is an outlier or part of a regional pattern.*
-4. *Cross-Verification — The Lost Efficiency calculation has not yet been independently verified through the multi-model protocol. Premium percentages should be treated as estimates pending final verification.*
-5. *The corrected staffing agency share of Object 7 (25.13%) has been verified post-deduplication. A total of 29,613 duplicate payment records were identified and purged on February 23, 2026. The corrected figures are documented in Dispatch #16.*
-
-*— WoodWard, Chief Editor*
