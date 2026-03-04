@@ -1,0 +1,13 @@
+Fiscal Year,Maxim Healthcare,Amergis Healthcare,Soliant Health,ProCare Therapy,Pioneer Healthcare,Combined Total (Primary 5 Vendors),Aveanna Healthcare,Stepping Stones Group,All Vendors Total
+FY2020-21,"$320,529",$0,$0,"$29,180",$0,"$349,709","$22,431",$0,"$372,141"
+FY2021-22,"$1,886,173",$0,"$35,295","$220,657",$0,"$2,142,124","$108,936","$163,060","$2,414,120"
+FY2022-23,"$5,908,104",$0,"$25,016","$183,258","$116,025","$6,232,403","$79,151",$0,"$6,311,554"
+FY2023-24,"$4,195,578","$1,849,732","$195,887","$433,494","$3,188","$6,677,879","$151,717",$0,"$6,829,596"
+FY2024-25,"$15,716","$10,970,973","$627,518","$1,712,415",$0,"$13,326,622","$280,869",$0,"$13,607,491"
+FY2025-26,$0,"$2,927,705","$185,463","$347,331",$0,"$3,460,499","$52,096",$0,"$3,512,596"
+Grand Total (All Years),"$12,326,099","$15,748,411","$1,069,180","$2,926,334","$119,212","$32,189,236","$695,200","$163,060","$33,047,497"
+
+RECONCILIATION NOTE
+"Canonical 5-vendor total (Articles): $32,189,236. Database 5-vendor total through FY2024-25: $28,728,737. FY2025-26 partial included above."
+"Fiscal year = Sept 1 - Aug 31. Source: VPS Warrant Register PDFs from BoardDocs, deduplicated."
+Aveanna Healthcare and Stepping Stones Group are excluded from the canonical $32.2M staffing vendor total but included here for completeness.

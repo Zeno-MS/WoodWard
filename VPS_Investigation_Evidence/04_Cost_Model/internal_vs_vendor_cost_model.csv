@@ -1,0 +1,7 @@
+role,schedule_step,base_annual_salary,sebb_annual,drs_annual,payroll_taxes,fully_loaded_annual,fully_loaded_hourly,vendor_bill_rate_low,vendor_bill_rate_high,vendor_bill_rate_midpoint,premium_pct_at_midpoint
+Paraeducator,VAESP Step 3,36576.00,14136.00,3332.00,2798.00,56842.00,39.47,37.00,45.00,41.00,3.87%
+SPED Teacher,VEA BA+0 Step 5,63149.00,14136.00,5753.00,4831.00,87869.00,61.02,70.00,80.00,75.00,22.90%
+SLP / RN,VEA MA+0 Step 5,71467.00,14136.00,6511.00,5467.00,97581.00,67.76,80.00,95.00,87.50,29.12%
+School Psychologist,VEA MA+0 Step 5,71467.00,14136.00,6511.00,5467.00,97581.00,67.76,90.00,110.00,100.00,47.57%
+BCBA,VEA MA+0 Step 5,71467.00,14136.00,6511.00,5467.00,97581.00,67.76,85.00,115.00,100.00,47.57%
+Behavior Technician,VAESP Step 3,36576.00,14136.00,3332.00,2798.00,56842.00,39.47,50.00,55.00,52.50,33.01%

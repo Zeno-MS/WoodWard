@@ -1,0 +1,1 @@
+Chief, the `woodward.db` file is a relational SQLite database that acts as the master record for the entire investigation. It contains 10 structured tables that track every payment, contract, and board action we analyzed.

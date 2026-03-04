@@ -1,0 +1,7 @@
+District,FY24-25 Obj7 (Budgeted),Total GF (Budgeted),Enrollment,Obj7 Per Pupil,Obj7 Share
+Evergreen SD (06114),"$47,125,176","$432,593,222","21,807","$2,161.01",10.89%
+Battle Ground SD (06119),"$32,727,029","$242,645,492","12,353","$2,649.32",13.49%
+Vancouver SD (06037),"$36,738,206","$423,538,605","20,807","$1,765.67",8.67%
+
+Source: OSPI F-195 Budget parameters applied to prevent SQLite scope contamination. Normalization based on FY24-25 Object 7 data.
+"Note: Camas SD FY24-25 F-195 data was not publicly available at time of extraction. VPS budgeted the lowest per-pupil Object 7 but actually spent $47,331,056 ($10.59M over budget)."
