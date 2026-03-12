@@ -1,0 +1,75 @@
+# canonical/banned_claims.yaml
+# Claims that may never appear in publication-bound drafts.
+# These bans are permanent unless explicitly superseded by the Architect with documented justification.
+# text_pattern is a human-readable description of the banned claim type, not a regex.
+
+banned_claims:
+
+  - ban_id: ban_001
+    text_pattern: "Any claim implying Amergis or Maxim Healthcare intentionally defrauded, deceived, or manipulated VPS"
+    reason: >
+      Motive language. We have no evidence of intent. The 2011 federal settlement involved
+      different conduct in a different context and cannot be used to infer current intent.
+      The facts (uncapped contract, no competitive bid, spending growth) speak without motive framing.
+      Publishing motive claims without evidence of intent creates defamation exposure.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_002
+    text_pattern: "Any claim that uses internal non-public documents, internal emails, or private operational records as the primary or sole source"
+    reason: >
+      Source discipline. Publication must be grounded in publicly citable sources only.
+      Internal documents may inform investigation direction but cannot be cited as primary evidence
+      in publication without going through a public records response process.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_003
+    text_pattern: "Any claim asserting individual employee intent, including district administrators, board members, or vendor representatives"
+    reason: >
+      Intent is not documentable from public records. Claims about what individuals 'knew,'
+      'intended,' 'decided,' or 'chose to hide' require evidence of individual state of mind
+      which is not available from warrant registers, board minutes, or OSPI reports.
+      Factual claims about what boards voted on, approved, or failed to review are allowed.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_004
+    text_pattern: "Any claim that webapp chat memory, AI inference, or undocumented extrapolation constitutes a primary source"
+    reason: >
+      Webapp output is not a source. Model-generated analysis may help identify investigation
+      directions but may not be cited as evidence. Every publication claim must trace to
+      a public document, a named source, or a documented public record.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_005
+    text_pattern: "Any claim asserting that the $32.1M cumulative total includes Aveanna Healthcare or Stepping Stones Group"
+    reason: >
+      These vendors are explicitly excluded from the canonical $32.1M/$32,189,236 total.
+      Including them would misrepresent the canonical baseline and create a figure inconsistency
+      across articles. They may be reported separately with their own figures.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_006
+    text_pattern: "Any claim mixing Object 7 overage ($10,592,850) with staffing vendor totals ($13,326,622) without explicit disclosure that they are different denominators"
+    reason: >
+      Denominator mixing. Object 7 is the full Purchased Services budget line.
+      The staffing vendor total is a subset of Object 7.
+      These figures cannot be added, substituted, or compared without explicit labeling.
+      Mixing them implies a larger or different overspend than the public record supports.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_007
+    text_pattern: "Any claim about the Amergis contract 'having no spending cap' without a completed public records response containing the contract text"
+    reason: >
+      This is a blocked claim (see claims_registry.yaml: claim_amergis_no_spending_cap).
+      The contract structural observation is strong but the contract document must be
+      in hand and publicly citable before this claim can be published as fact.
+    added_date: "2026-03-12"
+
+  - ban_id: ban_008
+    text_pattern: "Any claim stating VPS 'violated the law' or 'broke procurement rules'"
+    reason: >
+      Legal conclusion language. Whether the RCW 28A.335.190 exemption was properly applied
+      is a legal question for a competent authority (SAO, court, attorney). Journalism can
+      document the facts and raise the question; it cannot render the legal conclusion.
+      Approved phrasing: 'operating under an exemption,' 'did not conduct competitive bidding,'
+      'authorized as personal services.'
+    added_date: "2026-03-12"

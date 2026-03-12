@@ -5,6 +5,10 @@ services:
   woodward-neo4j:
     image: neo4j:5.15.0
     container_name: woodward-neo4j
+    entrypoint:
+      - /bin/bash
+      - -lc
+      - bin/neo4j console
     ports:
       - "7475:7474"  # HTTP (different from CaseLawDB 7474)
       - "7688:7687"  # Bolt (different from CaseLawDB 7687)
@@ -12,8 +16,8 @@ services:
       - NEO4J_AUTH=neo4j/woodward_secure_2024
       - NEO4J_PLUGINS=["apoc"]
       - NEO4J_dbms_security_procedures_unrestricted=apoc.*
-      - NEO4J_dbms_memory_heap_initial__size=512m
-      - NEO4J_dbms_memory_heap_max__size=1G
+      - NEO4J_server_memory_heap_initial__size=512m
+      - NEO4J_server_memory_heap_max__size=1G
     volumes:
       - ~/neo4j/woodward/data:/data
       - ~/neo4j/woodward/logs:/logs

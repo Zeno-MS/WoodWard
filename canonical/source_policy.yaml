@@ -1,0 +1,80 @@
+# canonical/source_policy.yaml
+# Source classification policy for vps_2026 investigation.
+# Governs which source classes are allowed in publication-bound drafts.
+# status options: allowed | blocked | pending_review
+
+source_classes:
+
+  - source_class: public_record
+    status: allowed
+    description: >
+      Official government documents available to the public. Includes: warrant registers,
+      board meeting minutes, board agendas, OSPI financial reports (F-195, S-275),
+      state financial warning letters, county treasurer communications, court filings,
+      DOJ press releases, state agency decisions.
+    citation_requirement: "Document title, issuing agency, date, and access method (BoardDocs URL, OSPI portal, etc.)"
+
+  - source_class: public_reporting
+    status: allowed
+    description: >
+      Previously published journalism from established news outlets. Includes reporting
+      from local newspapers, regional outlets, and national outlets covering VPS,
+      Clark County, or related subjects.
+    citation_requirement: "Publication name, article title, author, date, URL if available"
+
+  - source_class: public_records_response
+    status: allowed
+    description: >
+      Documents received in response to a filed Public Records Request (PRR) under RCW 42.56.
+      The PRR itself and the agency response create the public record chain.
+    citation_requirement: "PRR reference number or filing date, responding agency, date received"
+
+  - source_class: public_agency_finding
+    status: allowed
+    description: >
+      Official findings, decisions, or determinations issued by a public agency or oversight body.
+      Includes OSPI complaint decisions, SAO audit findings, WSSDA guidance, and similar.
+    citation_requirement: "Agency name, document title, date, docket number if applicable"
+
+  - source_class: internal_nonpublic
+    status: blocked
+    description: >
+      Internal documents, communications, memos, or data that have not been produced
+      through a public records process and are not publicly accessible.
+    citation_requirement: "N/A — BLOCKED. Cannot be used as primary source."
+    notes: >
+      May inform investigation direction only. Cannot be cited in publication.
+      If a document originates as internal_nonpublic but is later produced via PRR,
+      it becomes public_records_response.
+
+  - source_class: memory_only
+    status: blocked
+    description: >
+      Information held only in AI model memory, chat history, or prior session context
+      with no underlying document or verifiable source.
+    citation_requirement: "N/A — BLOCKED."
+    notes: >
+      Webapp chat memory is explicitly blocked as a source class. All factual claims
+      must trace to a real-world document or named source.
+
+  - source_class: insider_awareness
+    status: blocked
+    description: >
+      Information from confidential sources, insider tips, or non-on-the-record communications
+      that have not been documented or attributed.
+    citation_requirement: "N/A — BLOCKED for publication. May inform PRR targets."
+    notes: >
+      Insider awareness may be used to identify what to request via PRR, but the PRR response
+      itself becomes the publishable source. Unattributed insider information cannot be published.
+
+  - source_class: webapp_export
+    status: pending_review
+    description: >
+      Text, analysis, or claims exported or copied from a webapp (e.g., Claude.ai, ChatGPT)
+      that has not been traced to an underlying public document.
+    citation_requirement: "N/A until reviewed. Must be traced to underlying public source."
+    notes: >
+      Webapp exports are quarantined on ingest (ingest_source=webapp_export, status=pending_review,
+      public_citable=False). They cannot become canonical until manually reviewed and traced to
+      a public source. This covers AI-generated analysis, AI-drafted claims, and copy-paste
+      from any webapp session.

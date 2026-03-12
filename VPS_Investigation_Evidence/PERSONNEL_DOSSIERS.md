@@ -38,8 +38,8 @@
 - S-275 salary data at fiscal.wa.gov (all years 2020–2025)
 
 **Open Questions:**
-- Signatory authority on vendor contracts: [UNVERIFIED from public records]
-- Role in specific Amergis/Maxim contract approval chain: [UNVERIFIED]
+- Signatory authority on vendor contracts: Requires verification via PRR for the executed Amergis Master Agreement.
+- Role in specific Amergis/Maxim contract approval chain: As CFO, his office prepared the board agenda items requesting approval (verified via BoardDocs), but his direct negotiation role requires PRR disclosure.
 
 ---
 
@@ -77,8 +77,8 @@
 - Oregon Employment Relations Board filings from PPS/Clackamas tenure
 
 **Open Questions:**
-- Direct role in staffing agency decisions: [UNVERIFIED]
-- Whether he has presented to the board on recruitment strategy: [UNVERIFIED]
+- Direct role in staffing agency decisions: HR requests drive the vendor usage, but specific authorization chains require PRR disclosure.
+- Whether he has presented to the board on recruitment strategy: No public instances found in BoardDocs or media coverage during the 2022-2025 period.
 
 ---
 
@@ -105,7 +105,7 @@
 - His departure triggered the appointment of Blechschmidt as interim
 
 **Open Questions:**
-- Whether he was aware of the gap between the $3M Amergis board estimate and the $11M actual: [UNVERIFIED]
+- Whether he was aware of the gap between the $3M Amergis board estimate and the $11M actual: No public evidence exists; requires PRR disclosure of executive email communications.
 
 ---
 
@@ -170,8 +170,8 @@
 - Any public records appearances
 
 **Open Questions:**
-- Specific role in executing/approving Amergis/Maxim agreements: [UNVERIFIED]
-- Whether purchasing flagged the variance between budgeted and actual vendor spend: [UNVERIFIED]
+- Specific role in executing/approving Amergis/Maxim agreements: The Purchasing department processes the contracts, but specific signatory authority requires PRR for the latest master agreement.
+- Whether purchasing flagged the variance between budgeted and actual vendor spend: No public evidence exists; requires PRR disclosure.
 
 ---
 
@@ -320,8 +320,8 @@
 - Current status of individual indictments
 
 **Open Questions:**
-- Dyer's current role/status at Maxim: [UNVERIFIED]
-- Whether Dyer was individually convicted or only indicted: [UNVERIFIED]
+- Dyer's current role/status at Maxim: Resigned active leadership prior to the 2011 settlement but reportedly remains connected to ownership structure.
+- Whether Dyer was individually convicted or only indicted: Public DOJ records indicate nine executives/employees were charged and the corporation pleaded guilty, but Dyer's individual adjudication status is not detailed in the primary DOJ press release.
 
 ---
 

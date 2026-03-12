@@ -1,0 +1,53 @@
+# canonical/articles.yaml
+# Article registry for vps_2026 investigation.
+# These are the four locked article outputs. Status: locked_baseline during migration.
+
+articles:
+
+  - article_id: article_1
+    title: "The Contract: How Vancouver Public Schools Locked Itself Into an Uncapped Staffing Deal"
+    status: locked_baseline
+    file_path: "investigations/vps_2026/article_1_the_contract.md"
+    locked: true
+    notes: >
+      Covers the Amergis Master Service Agreement architecture: auto-renewal, uncapped rates,
+      no spending cap, 30% conversion fee, no competitive bid.
+      Key unresolved questions: board authorization chain for the Maxim-to-Amergis transition,
+      contract continuity without re-bid.
+      Strongest need for blocked-claim enforcement — several contract-structure assertions
+      require right-of-reply completion before publishing.
+
+  - article_id: article_2
+    title: "The Estimate: $3 Million Approved, $11 Million Spent"
+    status: locked_baseline
+    file_path: "investigations/vps_2026/article_2_the_estimate.md"
+    locked: true
+    notes: >
+      Covers the July 9, 2024 board consent agenda $3M estimate vs. $10,970,973 actual.
+      Uses figure: board_amergis_estimate_july2024 and amergis_fy2425_total.
+      Key open question: whether mid-year authorization was sought or obtained for the overage.
+      HR gap framing: any unresolved HR-context claims must remain phrased as public-record questions.
+
+  - article_id: article_3
+    title: "The Overspend: $47 Million Out the Door While Positions Were Cut"
+    status: locked_baseline
+    file_path: "investigations/vps_2026/article_3_the_overspend.md"
+    locked: true
+    notes: >
+      Covers Object 7 budget-versus-actual analysis for FY2024-25.
+      Uses figures: object7_budget_fy2425, object7_actual_fy2425, object7_overage_fy2425.
+      Denominator discipline required: budgeted and actual figures must not be mixed
+      without explicit disclosure.
+      Also covers annual trajectory using cumulative_staffing_baseline.
+
+  - article_id: article_4
+    title: "The Pattern: Five Years of Spending Growth Against a Declared Fiscal Emergency"
+    status: locked_baseline
+    file_path: "investigations/vps_2026/article_4_the_pattern.md"
+    locked: true
+    notes: >
+      Covers the five-year spending growth trajectory and governance failure pattern.
+      Date lock: September 15, 2025 (VAESP tentative agreement date).
+      Uses figures: cumulative_staffing_baseline, fy2425_staffing_vendor_total.
+      Broadest mix of public reporting, state findings (OSPI), and policy framing.
+      Best stress test for public-source gating.

@@ -1,0 +1,141 @@
+# canonical/figures.yaml
+# Locked figures for VPS investigation vps_2026.
+# These values are authoritative. Do not alter without an explicit Architect lock decision.
+# Status options: locked | provisional | superseded
+
+figures:
+
+  - figure_id: fy2425_staffing_vendor_total
+    display_label: "FY24-25 Staffing Vendor Total"
+    value: 13326622
+    display_value: "$13,326,622"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "ledger.db/fiscal_rollups"
+    derivation_id: "deriv_fy2425_staffing_total"
+    status: locked
+    notes: >
+      Total paid to primary 5 staffing vendors in FY2024-25.
+      Excludes Aveanna Healthcare and Stepping Stones Group.
+      Sourced from VPS warrant register PDFs via BoardDocs, 25,578 deduplicated records.
+
+  - figure_id: cumulative_staffing_baseline
+    display_label: "Cumulative Staffing Vendor Baseline (~$32.1M)"
+    value: 32189236
+    display_value: "$32,189,236"
+    fiscal_year: "FY2020-21 through FY2025-26"
+    date_context: "All years including FY2025-26 partial"
+    source_of_truth: "ledger.db/fiscal_rollups"
+    derivation_id: "deriv_cumulative_5vendor"
+    status: locked
+    notes: >
+      Grand total across all years for primary 5 vendors (Maxim/Amergis, Soliant, ProCare, Pioneer).
+      Aveanna Healthcare ($695,200) and Stepping Stones Group ($163,060) are excluded.
+      Through FY2024-25 only: $28,728,737. FY2025-26 partial included for completeness.
+
+  - figure_id: amergis_fy2425_total
+    display_label: "Amergis FY24-25 Total"
+    value: 10970973
+    display_value: "$10,970,973"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "ledger.db/fiscal_rollups"
+    derivation_id: "deriv_amergis_fy2425"
+    status: locked
+    notes: >
+      Total paid to Amergis Healthcare (rebranded from Maxim Healthcare) in FY2024-25.
+      This is 82.3% of the $13,326,622 FY24-25 staffing vendor total.
+      366% above the board-approved $3M estimate from July 9, 2024 consent agenda.
+
+  - figure_id: object7_budget_fy2425
+    display_label: "Object 7 Budget FY24-25"
+    value: 36738206
+    display_value: "$36,738,206"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "ospi_f195_budget_report_fy2425"
+    derivation_id: "deriv_obj7_budget_fy2425"
+    status: locked
+    article_label: "Object 7 (Purchased Services)"
+    db_mapping: "budget_items WHERE object_code=5 (woodward.db); object_code=7 is Capital Outlay ($133,500) — do NOT confuse"
+    notes: >
+      VPS adopted budget for Object 7 (Purchased Services) in FY2024-25.
+      Source: OSPI F-195 financial report. This is the budgeted denominator for overage calculations.
+      NOTE: 'Object 7' in article language refers to Purchased Services (object_code=5 in woodward.db).
+      object_code=7 is Capital Outlay ($133,500 budgeted). Do NOT confuse these two object codes.
+
+  - figure_id: object7_actual_fy2425
+    display_label: "Object 7 Actual FY24-25"
+    value: 47331056
+    display_value: "$47,331,056"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "ospi_f195_actual_fy2425"
+    derivation_id: "deriv_obj7_actual_fy2425"
+    status: locked
+    article_label: "Object 7 (Purchased Services)"
+    db_mapping: "budget_items WHERE object_code=5 (woodward.db); object_code=7 is Capital Outlay ($133,500) — do NOT confuse"
+    notes: >
+      VPS actual spending in Object 7 (Purchased Services) in FY2024-25.
+      Source: OSPI F-195 financial report. Staffing vendors represent 28.16% of this total.
+      NOTE: 'Object 7' in article language refers to Purchased Services (object_code=5 in woodward.db).
+      object_code=7 is Capital Outlay ($133,500 budgeted). Do NOT confuse these two object codes.
+
+  - figure_id: object7_overage_fy2425
+    display_label: "Object 7 Overage FY24-25"
+    value: 10592850
+    display_value: "$10,592,850"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "ledger.db/figure_derivations"
+    derivation_id: "deriv_obj7_overage_fy2425"
+    status: locked
+    article_label: "Object 7 (Purchased Services)"
+    db_mapping: "budget_items WHERE object_code=5 (woodward.db); object_code=7 is Capital Outlay ($133,500) — do NOT confuse"
+    notes: >
+      Derived: object7_actual_fy2425 ($47,331,056) minus object7_budget_fy2425 ($36,738,206).
+      This is the overspend in purchased services. Must not be confused with the staffing-vendor total.
+      Denominator mixing warning: do not combine with staffing_vendor_total without explicit disclosure.
+      NOTE: 'Object 7' in article language refers to Purchased Services (object_code=5 in woodward.db).
+      object_code=7 is Capital Outlay ($133,500 budgeted). Do NOT confuse these two object codes.
+
+  - figure_id: board_amergis_estimate_july2024
+    display_label: "Board Estimate for Amergis — July 9, 2024 Consent Agenda"
+    value: 3000000
+    display_value: "~$3,000,000"
+    fiscal_year: "FY2024-25"
+    date_context: "July 9, 2024 consent agenda"
+    source_of_truth: "board_minutes_july_9_2024"
+    derivation_id: "deriv_board_estimate_july2024"
+    status: locked
+    notes: >
+      Board approved Amergis contract as a consent agenda item on July 9, 2024 with an
+      "approximate cost" estimate of approximately $3,000,000. Actual spending was $10,970,973 —
+      a 366% variance. The tilde prefix (~) in display_value is intentional per source language.
+
+  - figure_id: ospi_advance_requested
+    display_label: "OSPI Advance Requested"
+    value: 21367552
+    display_value: "$21,367,552"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "shawn_lewis_ospi_director_safs_response"
+    derivation_id: "deriv_ospi_advance_requested"
+    status: locked
+    notes: >
+      Amount requested by VPS from OSPI as a state financial advance.
+      Confirmed by Shawn Lewis, OSPI Director of School Apportionment and Financial Services (SAFS).
+
+  - figure_id: ospi_advance_approved
+    display_label: "OSPI Advance Approved"
+    value: 8700000
+    display_value: "$8,700,000"
+    fiscal_year: "FY2024-25"
+    date_context: null
+    source_of_truth: "shawn_lewis_ospi_director_safs_response"
+    derivation_id: "deriv_ospi_advance_approved"
+    status: locked
+    notes: >
+      Amount approved by OSPI for the state financial advance.
+      Confirmed by Shawn Lewis, OSPI Director of SAFS.
+      Represents 40.7% of the $21,367,552 requested.

@@ -1,0 +1,52 @@
+# canonical/vendor_scope.yaml
+# Vendor scope declarations for vps_2026 investigation.
+# canonical_total_included: whether included in the $32,189,236 ($32.1M) canonical total.
+
+vendors:
+
+  - vendor_id: amergis
+    canonical_name: "Amergis Healthcare"
+    aliases:
+      - "Amergis"
+      - "Maxim Healthcare"
+      - "Maxim Healthcare Services"
+      - "Maxim"
+    rebrand_history:
+      - from: "Maxim Healthcare Services"
+        to: "Amergis Healthcare"
+        effective_date: "2023-01-01"
+    canonical_total_included: true
+    notes: >
+      Primary staffing vendor for VPS. Formerly Maxim Healthcare Services, rebranded to Amergis
+      Healthcare circa early 2023. Parent: Maxim Healthcare Group (same corporate entity).
+      Maxim Healthcare paid $150M to settle federal fraud charges in 2011.
+      FY24-25 total: $10,970,973. FY23-24 combined (both names): $4,195,578 + $1,849,732 = $6,045,310.
+      The $32.1M canonical total includes all payments under both Maxim and Amergis names.
+      Alias resolution note: any warrant record matching "Maxim" or "Amergis" maps to this vendor_id.
+
+  - vendor_id: aveanna_healthcare
+    canonical_name: "Aveanna Healthcare"
+    aliases:
+      - "Aveanna"
+      - "Aveanna Healthcare LLC"
+    rebrand_history: []
+    canonical_total_included: false
+    notes: >
+      Tracked separately from the $32.1M canonical total per investigation design.
+      All-years total: $695,200. Excluded from staffing vendor totals used in Articles 1-4
+      to maintain consistency with the canonical baseline established in prior analysis.
+      May be mentioned separately in comparative context but must not be added to canonical figures.
+
+  - vendor_id: stepping_stones
+    canonical_name: "Stepping Stones Group"
+    aliases:
+      - "Stepping Stones"
+      - "The Stepping Stones Group"
+      - "Stepping Stones Group LLC"
+    rebrand_history: []
+    canonical_total_included: false
+    notes: >
+      Tracked separately from the $32.1M canonical total per investigation design.
+      All-years total: $163,060. Excluded from staffing vendor totals used in Articles 1-4.
+      Only appears in FY2021-22 data ($163,060). May be mentioned separately in comparative
+      context but must not be added to canonical figures.

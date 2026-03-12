@@ -1,13 +1,62 @@
 .DS_Store
 __pycache__/
 *.pyc
+*.py[cod]
+*$py.class
 .env
+.env.local
+.env.*.local
 .idea/
 .vscode/
 node_modules/
 dist/
 build/
 *.log
+
+# Python packaging
+*.egg-info/
+.eggs/
+*.egg
+.installed.cfg
+MANIFEST
+wheels/
+develop-eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+nosetests.xml
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# SQLite databases (never commit live db files)
+db/*.db
+db/*.db-shm
+db/*.db-wal
+
+# Run artifacts (can be large, regenerated)
+runs/
+
+# Backups
+backups/
+
+# LanceDB vector store (regeneratable)
+lancedb/
+
 data/ospi/**/*.accdb
 data/salaries/*.csv
 data/salaries/S275_1920.csv

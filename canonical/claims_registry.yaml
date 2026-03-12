@@ -1,0 +1,115 @@
+# canonical/claims_registry.yaml
+# Registry of key investigative claims for vps_2026.
+# status options: draft | verified | blocked | superseded | pending_review
+# Claims that are blocked or have right_of_reply_required=true cannot enter publication assembly.
+
+claims:
+
+  - claim_id: claim_amergis_fy2425_payment
+    text: "VPS paid $10,970,973 to Amergis in FY24-25"
+    article_id: article_2
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Sourced from VPS warrant register PDFs (BoardDocs), 25,578 deduplicated payment records.
+      Figure is locked in figures.yaml as amergis_fy2425_total.
+      Support: fiscal_rollups in ledger.db, cross-checked against OSPI F-195.
+
+  - claim_id: claim_board_3m_estimate
+    text: "The VPS Board approved an approximate cost estimate of ~$3,000,000 for Amergis on the July 9, 2024 consent agenda"
+    article_id: article_2
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Source: VPS Board minutes, July 9, 2024 consent agenda item.
+      Board minutes are public record.
+      Estimate language was "approximate cost" — display as ~$3M.
+      Figure locked in figures.yaml as board_amergis_estimate_july2024.
+
+  - claim_id: claim_amergis_no_spending_cap
+    text: "The Amergis Master Service Agreement contains no contractual spending cap"
+    article_id: article_1
+    status: blocked
+    public_citable: false
+    support_chain_complete: false
+    right_of_reply_required: true
+    stale: false
+    notes: >
+      Contract text has not been fully entered into public record via a completed PRR response.
+      This claim requires: (1) confirmed PRR response containing the contract, OR
+      (2) on-the-record confirmation from VPS or Amergis.
+      Do not publish as stated fact until support chain is complete.
+      Structural indicators exist (no cap line found in partial review) but are not sufficient
+      for publication without the contract document in hand.
+
+  - claim_id: claim_fy2425_total_spending
+    text: "VPS paid $13,326,622 to staffing vendors in FY2024-25"
+    article_id: article_3
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Total for primary 5 vendors. Excludes Aveanna Healthcare and Stepping Stones Group.
+      Figure locked in figures.yaml as fy2425_staffing_vendor_total.
+
+  - claim_id: claim_object7_overage
+    text: "VPS overspent its Object 7 (Purchased Services) budget by $10,592,850 in FY2024-25"
+    article_id: article_3
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Derived: $47,331,056 actual minus $36,738,206 budgeted.
+      Both figures from OSPI F-195 financial report.
+      Denominator mixing warning: this is Object 7 total, not staffing-vendor total.
+      Must be clearly labeled as Purchased Services overage, not staffing overage.
+
+  - claim_id: claim_cumulative_32m
+    text: "VPS paid approximately $32.2 million ($32,189,236) to staffing vendors over five years"
+    article_id: article_4
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Canonical five-year total. Excludes Aveanna and Stepping Stones.
+      Figure locked in figures.yaml as cumulative_staffing_baseline.
+      Includes FY2025-26 partial data. Through FY2024-25 only: $28,728,737.
+      Articles should use "$32 million" or "$32.2 million" in narrative; exact figure in data tables.
+
+  - claim_id: claim_maxim_fraud_settlement
+    text: "Maxim Healthcare Services paid $150 million to settle federal fraud charges in 2011"
+    article_id: article_1
+    status: verified
+    public_citable: true
+    support_chain_complete: true
+    right_of_reply_required: false
+    stale: false
+    notes: >
+      Source: DOJ press release (public record). Settlement is a matter of public record.
+      Must be framed as settlement, not conviction. Do not imply ongoing criminal conduct.
+
+  - claim_id: claim_no_competitive_bid
+    text: "VPS has never conducted competitive bidding for the Amergis/Maxim staffing contract"
+    article_id: article_1
+    status: blocked
+    public_citable: false
+    support_chain_complete: false
+    right_of_reply_required: true
+    stale: false
+    notes: >
+      Requires: confirmed PRR response showing no competitive bid history, OR on-the-record
+      VPS confirmation. The RCW 28A.335.190 personal services exemption is documented (public record),
+      but the claim that competitive bidding was "never conducted" requires documentary confirmation.
+      Draft phrasing: "operating under a personal services exemption that does not require competitive bid."
